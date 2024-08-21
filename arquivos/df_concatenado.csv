@@ -1,0 +1,585 @@
+CD_CONTA,DS_CONTA,Patrimônio Líquido Consolidado
+1,Ativo Total,1177037
+1.01,Ativo Circulante,899822
+1.01.01,Caixa e Equivalentes de Caixa,283951
+1.01.02,Aplicações Financeiras,213090
+1.01.02.01,Aplicações Financeiras Avaliadas a Valor Justo,193296
+1.01.02.01.01,Títulos para Negociação,193296
+1.01.02.01.02,Títulos Disponíveis para Venda,0
+1.01.02.02,Aplicações Financeiras Avaliadas ao Custo Amortizado,19794
+1.01.02.02.01,Títulos Mantidos até o Vencimento,19794
+1.01.03,Contas a Receber,244499
+1.01.03.01,Clientes,244499
+1.01.03.02,Outras Contas a Receber,0
+1.01.04,Estoques,25279
+1.01.05,Ativos Biológicos,0
+1.01.06,Tributos a Recuperar,26801
+1.01.06.01,Tributos Correntes a Recuperar,26801
+1.01.07,Despesas Antecipadas,722
+1.01.08,Outros Ativos Circulantes,105480
+1.01.08.01,Ativos Não-Correntes a Venda,73644
+1.01.08.02,Ativos de Operações Descontinuadas,0
+1.01.08.03,Outros,31836
+1.01.08.03.01,Adiantamento a fornecedores,28291
+1.01.08.03.02,Instrumentos financeiros,0
+1.01.08.03.03,Outros,3545
+1.01.08.03.04,Adiantamentos a parceiros,0
+1.02,Ativo Não Circulante,277215
+1.02.01,Ativo Realizável a Longo Prazo,45500
+1.02.01.01,Aplicações Financeiras Avaliadas a Valor Justo,0
+1.02.01.01.01,Títulos para Negociação,0
+1.02.01.01.02,Títulos Disponíveis para Venda,0
+1.02.01.02,Aplicações Financeiras Avaliadas ao Custo Amortizado,0
+1.02.01.02.01,Títulos Mantidos até o Vencimento,0
+1.02.01.03,Contas a Receber,0
+1.02.01.03.01,Clientes,0
+1.02.01.03.02,Outras Contas a Receber,0
+1.02.01.04,Estoques,0
+1.02.01.05,Ativos Biológicos,0
+1.02.01.06,Tributos Diferidos,1226
+1.02.01.06.01,Imposto de Renda e Contribuição Social Diferidos,1226
+1.02.01.07,Despesas Antecipadas,0
+1.02.01.08,Créditos com Partes Relacionadas,0
+1.02.01.08.01,Créditos com Coligadas,0
+1.02.01.08.03,Créditos com Controladores,0
+1.02.01.08.04,Créditos com Outras Partes Relacionadas,0
+1.02.01.09,Outros Ativos Não Circulantes,44274
+1.02.01.09.01,Ativos Não-Correntes a Venda,0
+1.02.01.09.02,Ativos de Operações Descontinuadas,0
+1.02.01.09.03,Garantias e compromissos,0
+1.02.01.09.04,Adiantamento a fornecedores,12596
+1.02.01.09.05,Depósitos judiciais,11594
+1.02.01.09.06,Tributos a recuperar,20084
+1.02.02,Investimentos,0
+1.02.02.01,Participações Societárias,0
+1.02.02.01.01,Participações em Coligadas,0
+1.02.02.01.04,Outras Participações Societárias,0
+1.02.02.02,Propriedades para Investimento,0
+1.02.03,Imobilizado,69949
+1.02.03.01,Imobilizado em Operação,69949
+1.02.03.02,Imobilizado Arrendado,0
+1.02.03.03,Imobilizado em Andamento,0
+1.02.04,Intangível,161766
+1.02.04.01,Intangíveis,161766
+1.02.04.01.01,Contrato de Concessão,161766
+1.02.04.02,Goodwill,0
+1,Ativo Total,1082369
+1.01,Ativo Circulante,781580
+1.01.01,Caixa e Equivalentes de Caixa,24793
+1.01.02,Aplicações Financeiras,546507
+1.01.02.01,Aplicações Financeiras Avaliadas a Valor Justo,546507
+1.01.02.01.01,Títulos para Negociação,546507
+1.01.02.01.02,Títulos Disponíveis para Venda,0
+1.01.02.02,Aplicações Financeiras Avaliadas ao Custo Amortizado,0
+1.01.02.02.01,Títulos Mantidos até o Vencimento,0
+1.01.03,Contas a Receber,30680
+1.01.03.01,Clientes,30680
+1.01.03.02,Outras Contas a Receber,0
+1.01.04,Estoques,33192
+1.01.05,Ativos Biológicos,0
+1.01.06,Tributos a Recuperar,69331
+1.01.06.01,Tributos Correntes a Recuperar,69331
+1.01.07,Despesas Antecipadas,2696
+1.01.08,Outros Ativos Circulantes,74381
+1.01.08.01,Ativos Não-Correntes a Venda,50255
+1.01.08.02,Ativos de Operações Descontinuadas,0
+1.01.08.03,Outros,24126
+1.01.08.03.01,Adiantamento a fornecedores,23400
+1.01.08.03.02,Instrumentos financeiros,0
+1.01.08.03.03,Outros,726
+1.01.08.03.04,Adiantamentos a parceiros,0
+1.02,Ativo Não Circulante,300789
+1.02.01,Ativo Realizável a Longo Prazo,73972
+1.02.01.01,Aplicações Financeiras Avaliadas a Valor Justo,0
+1.02.01.01.01,Títulos para Negociação,0
+1.02.01.01.02,Títulos Disponíveis para Venda,0
+1.02.01.02,Aplicações Financeiras Avaliadas ao Custo Amortizado,0
+1.02.01.02.01,Títulos Mantidos até o Vencimento,0
+1.02.01.03,Contas a Receber,0
+1.02.01.03.01,Clientes,0
+1.02.01.03.02,Outras Contas a Receber,0
+1.02.01.04,Estoques,0
+1.02.01.05,Ativos Biológicos,0
+1.02.01.06,Tributos Diferidos,5782
+1.02.01.06.01,Imposto de Renda e Contribuição Social Diferidos,5782
+1.02.01.07,Despesas Antecipadas,0
+1.02.01.08,Créditos com Partes Relacionadas,0
+1.02.01.08.01,Créditos com Coligadas,0
+1.02.01.08.03,Créditos com Controladores,0
+1.02.01.08.04,Créditos com Outras Partes Relacionadas,0
+1.02.01.09,Outros Ativos Não Circulantes,68190
+1.02.01.09.01,Ativos Não-Correntes a Venda,0
+1.02.01.09.02,Ativos de Operações Descontinuadas,0
+1.02.01.09.03,Garantias e compromissos,0
+1.02.01.09.04,Adiantamento a fornecedores,12596
+1.02.01.09.05,Depósitos judiciais,12993
+1.02.01.09.06,Tributos a recuperar,42601
+1.02.02,Investimentos,0
+1.02.02.01,Participações Societárias,0
+1.02.02.01.01,Participações em Coligadas,0
+1.02.02.01.04,Outras Participações Societárias,0
+1.02.02.02,Propriedades para Investimento,0
+1.02.03,Imobilizado,44234
+1.02.03.01,Imobilizado em Operação,44234
+1.02.03.02,Imobilizado Arrendado,0
+1.02.03.03,Imobilizado em Andamento,0
+1.02.04,Intangível,182583
+1.02.04.01,Intangíveis,182583
+1.02.04.01.01,Contrato de Concessão,182583
+1.02.04.02,Goodwill,0
+1,Ativo Total,1251764
+1.01,Ativo Circulante,849655
+1.01.01,Caixa e Equivalentes de Caixa,92445
+1.01.02,Aplicações Financeiras,511863
+1.01.02.01,Aplicações Financeiras Avaliadas a Valor Justo,511863
+1.01.02.01.01,Títulos para Negociação,511863
+1.01.02.01.02,Títulos Disponíveis para Venda,0
+1.01.02.02,Aplicações Financeiras Avaliadas ao Custo Amortizado,0
+1.01.02.02.01,Títulos Mantidos até o Vencimento,0
+1.01.03,Contas a Receber,62046
+1.01.03.01,Clientes,62046
+1.01.03.02,Outras Contas a Receber,0
+1.01.04,Estoques,41174
+1.01.05,Ativos Biológicos,0
+1.01.06,Tributos a Recuperar,59492
+1.01.06.01,Tributos Correntes a Recuperar,59492
+1.01.07,Despesas Antecipadas,3106
+1.01.08,Outros Ativos Circulantes,79529
+1.01.08.01,Ativos Não-Correntes a Venda,28316
+1.01.08.02,Ativos de Operações Descontinuadas,0
+1.01.08.03,Outros,51213
+1.01.08.03.01,Adiantamento a fornecedores,28781
+1.01.08.03.02,Instrumentos financeiros,0
+1.01.08.03.03,Outros,828
+1.01.08.03.04,Adiantamentos a parceiros,3639
+1.01.08.03.05,Caixa Restrito,17965
+1.02,Ativo Não Circulante,402109
+1.02.01,Ativo Realizável a Longo Prazo,80275
+1.02.01.01,Aplicações Financeiras Avaliadas a Valor Justo,0
+1.02.01.01.01,Títulos para Negociação,0
+1.02.01.01.02,Títulos Disponíveis para Venda,0
+1.02.01.02,Aplicações Financeiras Avaliadas ao Custo Amortizado,0
+1.02.01.02.01,Títulos Mantidos até o Vencimento,0
+1.02.01.03,Contas a Receber,0
+1.02.01.03.01,Clientes,0
+1.02.01.03.02,Outras Contas a Receber,0
+1.02.01.04,Estoques,0
+1.02.01.05,Ativos Biológicos,0
+1.02.01.06,Tributos Diferidos,0
+1.02.01.06.01,Imposto de Renda e Contribuição Social Diferidos,0
+1.02.01.07,Despesas Antecipadas,0
+1.02.01.08,Créditos com Partes Relacionadas,0
+1.02.01.08.01,Créditos com Coligadas,0
+1.02.01.08.03,Créditos com Controladores,0
+1.02.01.08.04,Créditos com Outras Partes Relacionadas,0
+1.02.01.09,Outros Ativos Não Circulantes,80275
+1.02.01.09.01,Ativos Não-Correntes a Venda,0
+1.02.01.09.02,Ativos de Operações Descontinuadas,0
+1.02.01.09.03,Garantias e compromissos,0
+1.02.01.09.04,Adiantamento a fornecedores,12596
+1.02.01.09.05,Depósitos judiciais,16010
+1.02.01.09.06,Tributos a recuperar,51669
+1.02.02,Investimentos,0
+1.02.02.01,Participações Societárias,0
+1.02.02.01.01,Participações em Coligadas,0
+1.02.02.01.04,Outras Participações Societárias,0
+1.02.02.02,Propriedades para Investimento,0
+1.02.03,Imobilizado,61286
+1.02.03.01,Imobilizado em Operação,61286
+1.02.03.02,Imobilizado Arrendado,0
+1.02.03.03,Imobilizado em Andamento,0
+1.02.04,Intangível,260548
+1.02.04.01,Intangíveis,260548
+1.02.04.01.01,Contrato de Concessão,260548
+1.02.04.02,Goodwill,0
+1,Ativo Total,1537063
+1.01,Ativo Circulante,1039562
+1.01.01,Caixa e Equivalentes de Caixa,154109
+1.01.02,Aplicações Financeiras,643783
+1.01.02.01,Aplicações Financeiras Avaliadas a Valor Justo através do Resultado,643783
+1.01.02.01.01,Títulos para Negociação,643783
+1.01.02.01.02,Títulos Designados a Valor Justo,0
+1.01.02.02,Aplicações Financeiras Avaliadas a Valor Justo através de Outros Resultados Abrangentes,0
+1.01.02.03,Aplicações Financeiras Avaliadas ao Custo Amortizado,0
+1.01.03,Contas a Receber,34932
+1.01.03.01,Clientes,34932
+1.01.03.02,Outras Contas a Receber,0
+1.01.04,Estoques,58786
+1.01.05,Ativos Biológicos,0
+1.01.06,Tributos a Recuperar,67011
+1.01.06.01,Tributos Correntes a Recuperar,67011
+1.01.07,Despesas Antecipadas,1659
+1.01.08,Outros Ativos Circulantes,79282
+1.01.08.01,Ativos Não-Correntes a Venda,26581
+1.01.08.02,Ativos de Operações Descontinuadas,0
+1.01.08.03,Outros,52701
+1.01.08.03.01,Adiantamento a fornecedores,37949
+1.01.08.03.02,Instrumentos financeiros,0
+1.01.08.03.03,Outros,202
+1.01.08.03.04,Adiantamentos a parceiros,2922
+1.01.08.03.05,Caixa Restrito,11628
+1.02,Ativo Não Circulante,497501
+1.02.01,Ativo Realizável a Longo Prazo,66266
+1.02.01.01,Aplicações Financeiras Avaliadas a Valor Justo através do Resultado,0
+1.02.01.01.01,Títulos Designados a Valor Justo,0
+1.02.01.02,Aplicações Financeiras Avaliadas a Valor Justo através de Outros Resultados Abrangentes,0
+1.02.01.03,Aplicações Financeiras Avaliadas ao Custo Amortizado,0
+1.02.01.04,Contas a Receber,0
+1.02.01.04.01,Clientes,0
+1.02.01.04.02,Outras Contas a Receber,0
+1.02.01.05,Estoques,0
+1.02.01.06,Ativos Biológicos,0
+1.02.01.07,Tributos Diferidos,8338
+1.02.01.07.01,Imposto de Renda e Contribuição Social Diferidos,8338
+1.02.01.08,Despesas Antecipadas,0
+1.02.01.09,Créditos com Partes Relacionadas,0
+1.02.01.09.01,Créditos com Coligadas,0
+1.02.01.09.03,Créditos com Controladores,0
+1.02.01.09.04,Créditos com Outras Partes Relacionadas,0
+1.02.01.10,Outros Ativos Não Circulantes,57928
+1.02.01.10.01,Ativos Não-Correntes a Venda,0
+1.02.01.10.02,Ativos de Operações Descontinuadas,0
+1.02.01.10.03,Garantias e compromissos,0
+1.02.01.10.04,Adiantamento a fornecedores,12596
+1.02.01.10.05,Depósitos judiciais,19621
+1.02.01.10.06,Tributos a recuperar,25711
+1.02.02,Investimentos,0
+1.02.02.01,Participações Societárias,0
+1.02.02.01.01,Participações em Coligadas,0
+1.02.02.01.04,Participações em Controladas em Conjunto,0
+1.02.02.01.05,Outros Investimentos,0
+1.02.02.02,Propriedades para Investimento,0
+1.02.03,Imobilizado,45292
+1.02.03.01,Imobilizado em Operação,45292
+1.02.03.02,Direito de Uso em Arrendamento,0
+1.02.03.03,Imobilizado em Andamento,0
+1.02.04,Intangível,385943
+1.02.04.01,Intangíveis,385943
+1.02.04.01.01,Contrato de Concessão,385943
+1.02.04.02,Goodwill,0
+1,Ativo Total,5489751
+1.01,Ativo Circulante,1513090
+1.01.01,Caixa e Equivalentes de Caixa,459396
+1.01.02,Aplicações Financeiras,226301
+1.01.02.01,Aplicações Financeiras Avaliadas a Valor Justo através do Resultado,226301
+1.01.02.01.01,Títulos para Negociação,0
+1.01.02.01.02,Títulos Designados a Valor Justo,0
+1.01.02.02,Aplicações Financeiras Avaliadas a Valor Justo através de Outros Resultados Abrangentes,0
+1.01.02.03,Aplicações Financeiras Avaliadas ao Custo Amortizado,0
+1.01.03,Contas a Receber,374598
+1.01.03.01,Clientes,374598
+1.01.03.02,Outras Contas a Receber,0
+1.01.04,Estoques,125474
+1.01.05,Ativos Biológicos,0
+1.01.06,Tributos a Recuperar,116773
+1.01.06.01,Tributos Correntes a Recuperar,116773
+1.01.07,Despesas Antecipadas,10333
+1.01.08,Outros Ativos Circulantes,200215
+1.01.08.01,Ativos Não-Correntes a Venda,0
+1.01.08.02,Ativos de Operações Descontinuadas,0
+1.01.08.03,Outros,200215
+1.01.08.03.01,Adiantamento a fornecedores,52171
+1.01.08.03.02,Instrumentos financeiros,9354
+1.01.08.03.03,Outros,189
+1.01.08.03.04,Adiantamentos a parceiros,86278
+1.01.08.03.05,Caixa Restrito,52223
+1.02,Ativo Não Circulante,3976661
+1.02.01,Ativo Realizável a Longo Prazo,232542
+1.02.01.01,Aplicações Financeiras Avaliadas a Valor Justo através do Resultado,0
+1.02.01.01.01,Títulos Designados a Valor Justo,0
+1.02.01.02,Aplicações Financeiras Avaliadas a Valor Justo através de Outros Resultados Abrangentes,0
+1.02.01.03,Aplicações Financeiras Avaliadas ao Custo Amortizado,0
+1.02.01.04,Contas a Receber,0
+1.02.01.04.01,Clientes,0
+1.02.01.04.02,Outras Contas a Receber,0
+1.02.01.05,Estoques,0
+1.02.01.06,Ativos Biológicos,0
+1.02.01.07,Tributos Diferidos,160313
+1.02.01.07.01,Imposto de Renda e Contribuição Social Diferidos,160313
+1.02.01.08,Despesas Antecipadas,0
+1.02.01.09,Créditos com Partes Relacionadas,0
+1.02.01.09.01,Créditos com Coligadas,0
+1.02.01.09.03,Créditos com Controladores,0
+1.02.01.09.04,Créditos com Outras Partes Relacionadas,0
+1.02.01.10,Outros Ativos Não Circulantes,72229
+1.02.01.10.01,Ativos Não-Correntes a Venda,0
+1.02.01.10.02,Ativos de Operações Descontinuadas,0
+1.02.01.10.03,Garantias e compromissos,0
+1.02.01.10.04,Adiantamento a fornecedores,12596
+1.02.01.10.05,Depósitos judiciais,27249
+1.02.01.10.06,Tributos a recuperar,32384
+1.02.02,Investimentos,0
+1.02.02.01,Participações Societárias,0
+1.02.02.01.01,Participações em Coligadas,0
+1.02.02.01.04,Participações em Controladas em Conjunto,0
+1.02.02.01.05,Outros Investimentos,0
+1.02.02.02,Propriedades para Investimento,0
+1.02.03,Imobilizado,3054590
+1.02.03.01,Imobilizado em Operação,2241136
+1.02.03.02,Direito de Uso em Arrendamento,452067
+1.02.03.03,Imobilizado em Andamento,361387
+1.02.04,Intangível,689529
+1.02.04.01,Intangíveis,689529
+1.02.04.01.01,Contrato de Concessão,689529
+1.02.04.02,Goodwill,0
+1,Ativo Total,6792833
+1.01,Ativo Circulante,1841415
+1.01.01,Caixa e Equivalentes de Caixa,809273
+1.01.02,Aplicações Financeiras,22793
+1.01.02.01,Aplicações Financeiras Avaliadas a Valor Justo através do Resultado,22793
+1.01.02.01.01,Títulos para Negociação,22793
+1.01.02.01.02,Títulos Designados a Valor Justo,0
+1.01.02.02,Aplicações Financeiras Avaliadas a Valor Justo através de Outros Resultados Abrangentes,0
+1.01.02.03,Aplicações Financeiras Avaliadas ao Custo Amortizado,0
+1.01.03,Contas a Receber,386165
+1.01.03.01,Clientes,386165
+1.01.03.02,Outras Contas a Receber,0
+1.01.04,Estoques,194666
+1.01.05,Ativos Biológicos,0
+1.01.06,Tributos a Recuperar,124321
+1.01.06.01,Tributos Correntes a Recuperar,124321
+1.01.07,Despesas Antecipadas,25594
+1.01.08,Outros Ativos Circulantes,278603
+1.01.08.01,Ativos Não-Correntes a Venda,68439
+1.01.08.02,Ativos de Operações Descontinuadas,0
+1.01.08.03,Outros,210164
+1.01.08.03.01,Adiantamento a fornecedores,58245
+1.01.08.03.02,Instrumentos financeiros,14926
+1.01.08.03.03,Outros,0
+1.01.08.03.04,Adiantamentos a parceiros,86997
+1.01.08.03.05,Caixa Restrito,49996
+1.02,Ativo Não Circulante,4951418
+1.02.01,Ativo Realizável a Longo Prazo,265703
+1.02.01.01,Aplicações Financeiras Avaliadas a Valor Justo através do Resultado,0
+1.02.01.01.01,Títulos Designados a Valor Justo,0
+1.02.01.02,Aplicações Financeiras Avaliadas a Valor Justo através de Outros Resultados Abrangentes,0
+1.02.01.03,Aplicações Financeiras Avaliadas ao Custo Amortizado,0
+1.02.01.04,Contas a Receber,0
+1.02.01.04.01,Clientes,0
+1.02.01.04.02,Outras Contas a Receber,0
+1.02.01.05,Estoques,0
+1.02.01.06,Ativos Biológicos,0
+1.02.01.07,Tributos Diferidos,199942
+1.02.01.07.01,Imposto de Renda e Contribuição Social Diferidos,199942
+1.02.01.08,Despesas Antecipadas,0
+1.02.01.09,Créditos com Partes Relacionadas,0
+1.02.01.09.01,Créditos com Coligadas,0
+1.02.01.09.03,Créditos com Controladores,0
+1.02.01.09.04,Créditos com Outras Partes Relacionadas,0
+1.02.01.10,Outros Ativos Não Circulantes,65761
+1.02.01.10.01,Ativos Não-Correntes a Venda,0
+1.02.01.10.02,Ativos de Operações Descontinuadas,0
+1.02.01.10.03,Garantias e compromissos,0
+1.02.01.10.04,Adiantamento a fornecedores,12596
+1.02.01.10.05,Depósitos judiciais,20317
+1.02.01.10.06,Tributos a recuperar,32848
+1.02.02,Investimentos,0
+1.02.02.01,Participações Societárias,0
+1.02.02.01.01,Participações em Coligadas,0
+1.02.02.01.04,Participações em Controladas em Conjunto,0
+1.02.02.01.05,Outros Investimentos,0
+1.02.02.02,Propriedades para Investimento,0
+1.02.03,Imobilizado,3728849
+1.02.03.01,Imobilizado em Operação,2974633
+1.02.03.02,Direito de Uso em Arrendamento,369836
+1.02.03.03,Imobilizado em Andamento,384380
+1.02.04,Intangível,956866
+1.02.04.01,Intangíveis,956866
+1.02.04.01.01,Contrato de Concessão,956866
+1.02.04.02,Goodwill,0
+1,Ativo Total,12221416
+1.01,Ativo Circulante,6106295
+1.01.01,Caixa e Equivalentes de Caixa,970681
+1.01.02,Aplicações Financeiras,3680185
+1.01.02.01,Aplicações Financeiras Avaliadas a Valor Justo através do Resultado,3680185
+1.01.02.01.01,Títulos para Negociação,0
+1.01.02.01.02,Títulos Designados a Valor Justo,3680185
+1.01.02.02,Aplicações Financeiras Avaliadas a Valor Justo através de Outros Resultados Abrangentes,0
+1.01.02.03,Aplicações Financeiras Avaliadas ao Custo Amortizado,0
+1.01.03,Contas a Receber,915033
+1.01.03.01,Clientes,915033
+1.01.03.02,Outras Contas a Receber,0
+1.01.04,Estoques,217536
+1.01.05,Ativos Biológicos,0
+1.01.06,Tributos a Recuperar,85839
+1.01.06.01,Tributos Correntes a Recuperar,85839
+1.01.07,Despesas Antecipadas,9760
+1.01.08,Outros Ativos Circulantes,227261
+1.01.08.01,Ativos Não-Correntes a Venda,74508
+1.01.08.02,Ativos de Operações Descontinuadas,0
+1.01.08.03,Outros,152753
+1.01.08.03.01,Adiantamento a fornecedores,84013
+1.01.08.03.02,Instrumentos financeiros,35011
+1.01.08.03.03,Outros,513
+1.01.08.03.04,Adiantamentos a parceiros,33216
+1.01.08.03.05,Caixa Restrito,0
+1.02,Ativo Não Circulante,6115121
+1.02.01,Ativo Realizável a Longo Prazo,397883
+1.02.01.01,Aplicações Financeiras Avaliadas a Valor Justo através do Resultado,0
+1.02.01.01.01,Títulos Designados a Valor Justo,0
+1.02.01.02,Aplicações Financeiras Avaliadas a Valor Justo através de Outros Resultados Abrangentes,0
+1.02.01.03,Aplicações Financeiras Avaliadas ao Custo Amortizado,0
+1.02.01.04,Contas a Receber,0
+1.02.01.04.01,Clientes,0
+1.02.01.04.02,Outras Contas a Receber,0
+1.02.01.05,Estoques,0
+1.02.01.06,Ativos Biológicos,0
+1.02.01.07,Tributos Diferidos,378679
+1.02.01.07.01,Imposto de Renda e Contribuição Social Diferidos,378679
+1.02.01.08,Despesas Antecipadas,0
+1.02.01.09,Créditos com Partes Relacionadas,0
+1.02.01.09.01,Créditos com Coligadas,0
+1.02.01.09.03,Créditos com Controladores,0
+1.02.01.09.04,Créditos com Outras Partes Relacionadas,0
+1.02.01.10,Outros Ativos Não Circulantes,19204
+1.02.01.10.01,Ativos Não-Correntes a Venda,0
+1.02.01.10.02,Ativos de Operações Descontinuadas,0
+1.02.01.10.03,Garantias e compromissos,0
+1.02.01.10.04,Adiantamento a fornecedores,0
+1.02.01.10.05,Depósitos judiciais,10645
+1.02.01.10.06,Tributos a recuperar,8559
+1.02.02,Investimentos,0
+1.02.02.01,Participações Societárias,0
+1.02.02.01.01,Participações em Coligadas,0
+1.02.02.01.04,Participações em Controladas em Conjunto,0
+1.02.02.01.05,Outros Investimentos,0
+1.02.02.02,Propriedades para Investimento,0
+1.02.03,Imobilizado,3974912
+1.02.03.01,Imobilizado em Operação,3047800
+1.02.03.02,Direito de Uso em Arrendamento,425867
+1.02.03.03,Imobilizado em Andamento,501245
+1.02.04,Intangível,1742326
+1.02.04.01,Intangíveis,1742326
+1.02.04.01.01,Contrato de Concessão,1742326
+1.02.04.02,Goodwill,0
+1,Ativo Total,20302520
+1.01,Ativo Circulante,10602627
+1.01.01,Caixa e Equivalentes de Caixa,9612961
+1.01.02,Aplicações Financeiras,0
+1.01.02.01,Aplicações Financeiras Avaliadas a Valor Justo através do Resultado,0
+1.01.02.01.01,Títulos para Negociação,0
+1.01.02.01.02,Títulos Designados a Valor Justo,0
+1.01.02.02,Aplicações Financeiras Avaliadas a Valor Justo através de Outros Resultados Abrangentes,0
+1.01.02.03,Aplicações Financeiras Avaliadas ao Custo Amortizado,0
+1.01.03,Contas a Receber,166304
+1.01.03.01,Clientes,166304
+1.01.03.02,Outras Contas a Receber,0
+1.01.04,Estoques,0
+1.01.05,Ativos Biológicos,453425
+1.01.06,Tributos a Recuperar,76012
+1.01.06.01,Tributos Correntes a Recuperar,76012
+1.01.07,Despesas Antecipadas,10809
+1.01.08,Outros Ativos Circulantes,283116
+1.01.08.01,Ativos Não-Correntes a Venda,65314
+1.01.08.02,Ativos de Operações Descontinuadas,0
+1.01.08.03,Outros,217802
+1.01.08.03.01,Adiantamento a fornecedores,186149
+1.01.08.03.02,Instrumentos financeiros,0
+1.01.08.03.03,Outros,317
+1.01.08.03.04,Adiantamentos a parceiros,31336
+1.01.08.03.05,Caixa Restrito,0
+1.02,Ativo Não Circulante,9699893
+1.02.01,Ativo Realizável a Longo Prazo,729759
+1.02.01.01,Aplicações Financeiras Avaliadas a Valor Justo através do Resultado,0
+1.02.01.01.01,Títulos Designados a Valor Justo,0
+1.02.01.02,Aplicações Financeiras Avaliadas a Valor Justo através de Outros Resultados Abrangentes,0
+1.02.01.03,Aplicações Financeiras Avaliadas ao Custo Amortizado,0
+1.02.01.04,Contas a Receber,0
+1.02.01.04.01,Clientes,0
+1.02.01.04.02,Outras Contas a Receber,0
+1.02.01.05,Estoques,0
+1.02.01.06,Ativos Biológicos,0
+1.02.01.07,Tributos Diferidos,692076
+1.02.01.07.01,Imposto de Renda e Contribuição Social Diferidos,692076
+1.02.01.08,Despesas Antecipadas,0
+1.02.01.09,Créditos com Partes Relacionadas,0
+1.02.01.09.01,Créditos com Coligadas,0
+1.02.01.09.03,Créditos com Controladores,0
+1.02.01.09.04,Créditos com Outras Partes Relacionadas,0
+1.02.01.10,Outros Ativos Não Circulantes,37683
+1.02.01.10.01,Ativos Não-Correntes a Venda,0
+1.02.01.10.02,Ativos de Operações Descontinuadas,0
+1.02.01.10.03,Garantias e compromissos,0
+1.02.01.10.04,Adiantamento a fornecedores,242
+1.02.01.10.05,Depósitos judiciais,10518
+1.02.01.10.06,Tributos a recuperar,26923
+1.02.02,Investimentos,0
+1.02.02.01,Participações Societárias,0
+1.02.02.01.01,Participações em Coligadas,0
+1.02.02.01.04,Participações em Controladas em Conjunto,0
+1.02.02.01.05,Outros Investimentos,0
+1.02.02.02,Propriedades para Investimento,0
+1.02.03,Imobilizado,6136179
+1.02.03.01,Imobilizado em Operação,3328488
+1.02.03.02,Direito de Uso em Arrendamento,1470973
+1.02.03.03,Imobilizado em Andamento,1336718
+1.02.04,Intangível,2833955
+1.02.04.01,Intangíveis,2833955
+1.02.04.01.01,Contrato de Concessão,2833955
+1.02.04.02,Goodwill,0
+1,Ativo Total,28310932
+1.01,Ativo Circulante,5294874
+1.01.01,Caixa e Equivalentes de Caixa,2335403
+1.01.02,Aplicações Financeiras,0
+1.01.02.01,Aplicações Financeiras Avaliadas a Valor Justo através do Resultado,0
+1.01.02.01.01,Títulos para Negociação,0
+1.01.02.01.02,Títulos Designados a Valor Justo,0
+1.01.02.02,Aplicações Financeiras Avaliadas a Valor Justo através de Outros Resultados Abrangentes,0
+1.01.02.03,Aplicações Financeiras Avaliadas ao Custo Amortizado,0
+1.01.03,Contas a Receber,1743491
+1.01.03.01,Clientes,1743491
+1.01.03.02,Outras Contas a Receber,0
+1.01.04,Estoques,651651
+1.01.05,Ativos Biológicos,0
+1.01.06,Tributos a Recuperar,347658
+1.01.06.01,Tributos Correntes a Recuperar,347658
+1.01.07,Despesas Antecipadas,22129
+1.01.08,Outros Ativos Circulantes,194542
+1.01.08.01,Ativos Não-Correntes a Venda,0
+1.01.08.02,Ativos de Operações Descontinuadas,0
+1.01.08.03,Outros,194542
+1.01.08.03.01,Adiantamento a fornecedores,100227
+1.01.08.03.02,Instrumentos financeiros,358
+1.01.08.03.03,Outros,769
+1.01.08.03.04,Adiantamentos a parceiros,93188
+1.01.08.03.05,Caixa Restrito,0
+1.02,Ativo Não Circulante,23016058
+1.02.01,Ativo Realizável a Longo Prazo,631701
+1.02.01.01,Aplicações Financeiras Avaliadas a Valor Justo através do Resultado,0
+1.02.01.01.01,Títulos Designados a Valor Justo,0
+1.02.01.02,Aplicações Financeiras Avaliadas a Valor Justo através de Outros Resultados Abrangentes,0
+1.02.01.03,Aplicações Financeiras Avaliadas ao Custo Amortizado,0
+1.02.01.04,Contas a Receber,0
+1.02.01.04.01,Clientes,0
+1.02.01.04.02,Outras Contas a Receber,0
+1.02.01.05,Estoques,0
+1.02.01.06,Ativos Biológicos,0
+1.02.01.07,Tributos Diferidos,516582
+1.02.01.07.01,Imposto de Renda e Contribuição Social Diferidos,516582
+1.02.01.08,Despesas Antecipadas,0
+1.02.01.09,Créditos com Partes Relacionadas,0
+1.02.01.09.01,Créditos com Coligadas,0
+1.02.01.09.03,Créditos com Controladores,0
+1.02.01.09.04,Créditos com Outras Partes Relacionadas,0
+1.02.01.10,Outros Ativos Não Circulantes,115119
+1.02.01.10.01,Ativos Não-Correntes a Venda,0
+1.02.01.10.02,Ativos de Operações Descontinuadas,0
+1.02.01.10.03,Garantias e compromissos,0
+1.02.01.10.04,Adiantamento a fornecedores,225
+1.02.01.10.05,Depósitos judiciais,29971
+1.02.01.10.06,Tributos a recuperar,4225
+1.02.01.10.07,Marcação a mercado dos swaps das debêntures,80698
+1.02.02,Investimentos,0
+1.02.02.01,Participações Societárias,0
+1.02.02.01.01,Participações em Coligadas,0
+1.02.02.01.04,Participações em Controladas em Conjunto,0
+1.02.02.01.05,Outros Investimentos,0
+1.02.02.02,Propriedades para Investimento,0
+1.02.03,Imobilizado,11469479
+1.02.03.01,Imobilizado em Operação,5635846
+1.02.03.02,Direito de Uso em Arrendamento,2044361
+1.02.03.03,Imobilizado em Andamento,3789272
+1.02.04,Intangível,10914878
+1.02.04.01,Intangíveis,10914878
+1.02.04.01.01,Contrato de Concessão,10914878
+1.02.04.02,Goodwill,0

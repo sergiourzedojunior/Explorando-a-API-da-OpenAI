@@ -1,0 +1,657 @@
+CNPJ_CIA,DT_REFER,VERSAO,DENOM_CIA,CD_CVM,GRUPO_DFP,MOEDA,ESCALA_MOEDA,ORDEM_EXERC,DT_INI_EXERC,DT_FIM_EXERC,CD_CONTA,DS_CONTA,VL_CONTA,ST_CONTA_FIXA
+10.629.105/0001-68,2015-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2014-01-01,2014-12-31,3.01,Receita de Venda de Bens e/ou Serviços,486839000.0,S
+10.629.105/0001-68,2015-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2015-01-01,2015-12-31,3.01,Receita de Venda de Bens e/ou Serviços,253071000.0,S
+10.629.105/0001-68,2015-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2014-01-01,2014-12-31,3.02,Custo dos Bens e/ou Serviços Vendidos,-468078000.0,S
+10.629.105/0001-68,2015-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2015-01-01,2015-12-31,3.02,Custo dos Bens e/ou Serviços Vendidos,-294457000.0,S
+10.629.105/0001-68,2015-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2014-01-01,2014-12-31,3.03,Resultado Bruto,18761000.0,S
+10.629.105/0001-68,2015-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2015-01-01,2015-12-31,3.03,Resultado Bruto,-41386000.0,S
+10.629.105/0001-68,2015-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2014-01-01,2014-12-31,3.04,Despesas/Receitas Operacionais,-1086636000.0,S
+10.629.105/0001-68,2015-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2015-01-01,2015-12-31,3.04,Despesas/Receitas Operacionais,125600000.0,S
+10.629.105/0001-68,2015-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2014-01-01,2014-12-31,3.04.01,Despesas com Vendas,0.0,S
+10.629.105/0001-68,2015-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2015-01-01,2015-12-31,3.04.01,Despesas com Vendas,0.0,S
+10.629.105/0001-68,2015-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2014-01-01,2014-12-31,3.04.02,Despesas Gerais e Administrativas,-143634000.0,S
+10.629.105/0001-68,2015-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2015-01-01,2015-12-31,3.04.02,Despesas Gerais e Administrativas,-84354000.0,S
+10.629.105/0001-68,2015-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2014-01-01,2014-12-31,3.04.02.01,Despesas com Geologia e Geofísica,-4977000.0,N
+10.629.105/0001-68,2015-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2015-01-01,2015-12-31,3.04.02.01,Despesas com Geologia e Geofísica,-1450000.0,N
+10.629.105/0001-68,2015-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2014-01-01,2014-12-31,3.04.02.02,Despesas com Pessoal,-38633000.0,N
+10.629.105/0001-68,2015-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2015-01-01,2015-12-31,3.04.02.02,Despesas com Pessoal,-27872000.0,N
+10.629.105/0001-68,2015-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2014-01-01,2014-12-31,3.04.02.03,Despesas Gerais e Administrativas,-30857000.0,N
+10.629.105/0001-68,2015-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2015-01-01,2015-12-31,3.04.02.03,Despesas Gerais e Administrativas,-12165000.0,N
+10.629.105/0001-68,2015-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2014-01-01,2014-12-31,3.04.02.04,Despesas com Serviços de Terceiros,-55393000.0,N
+10.629.105/0001-68,2015-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2015-01-01,2015-12-31,3.04.02.04,Despesas com Serviços de Terceiros,-34046000.0,N
+10.629.105/0001-68,2015-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2014-01-01,2014-12-31,3.04.02.05,Impostos e Taxas,-3684000.0,N
+10.629.105/0001-68,2015-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2015-01-01,2015-12-31,3.04.02.05,Impostos e Taxas,-5626000.0,N
+10.629.105/0001-68,2015-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2014-01-01,2014-12-31,3.04.02.06,Despesa de Depreciação,-10090000.0,N
+10.629.105/0001-68,2015-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2015-01-01,2015-12-31,3.04.02.06,Despesa de Depreciação,-3195000.0,N
+10.629.105/0001-68,2015-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2014-01-01,2014-12-31,3.04.03,Perdas pela Não Recuperabilidade de Ativos,-1028666000.0,S
+10.629.105/0001-68,2015-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2015-01-01,2015-12-31,3.04.03,Perdas pela Não Recuperabilidade de Ativos,-79497000.0,S
+10.629.105/0001-68,2015-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2014-01-01,2014-12-31,3.04.03.01,Baixa de poço seco,-541791000.0,N
+10.629.105/0001-68,2015-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2015-01-01,2015-12-31,3.04.03.01,Baixa de poço seco,0.0,N
+10.629.105/0001-68,2015-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2014-01-01,2014-12-31,3.04.03.02,Provisão de impairment,-486875000.0,N
+10.629.105/0001-68,2015-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2015-01-01,2015-12-31,3.04.03.02,Provisão de impairment,-79497000.0,N
+10.629.105/0001-68,2015-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2014-01-01,2014-12-31,3.04.04,Outras Receitas Operacionais,98207000.0,S
+10.629.105/0001-68,2015-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2015-01-01,2015-12-31,3.04.04,Outras Receitas Operacionais,271654000.0,S
+10.629.105/0001-68,2015-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2014-01-01,2014-12-31,3.04.04.01,Resultado na venda de participação no Solimões,1502000.0,N
+10.629.105/0001-68,2015-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2015-01-01,2015-12-31,3.04.04.01,Resultado na venda de participação no Solimões,0.0,N
+10.629.105/0001-68,2015-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2014-01-01,2014-12-31,3.04.04.02,Resultado na venda de ativos permanentes,96705000.0,N
+10.629.105/0001-68,2015-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2015-01-01,2015-12-31,3.04.04.02,Resultado na venda de ativos permanentes,271654000.0,N
+10.629.105/0001-68,2015-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2014-01-01,2014-12-31,3.04.04.03,Outras,0.0,N
+10.629.105/0001-68,2015-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2015-01-01,2015-12-31,3.04.04.03,Outras,0.0,N
+10.629.105/0001-68,2015-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2014-01-01,2014-12-31,3.04.05,Outras Despesas Operacionais,-12543000.0,S
+10.629.105/0001-68,2015-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2015-01-01,2015-12-31,3.04.05,Outras Despesas Operacionais,17797000.0,S
+10.629.105/0001-68,2015-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2014-01-01,2014-12-31,3.04.06,Resultado de Equivalência Patrimonial,0.0,S
+10.629.105/0001-68,2015-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2015-01-01,2015-12-31,3.04.06,Resultado de Equivalência Patrimonial,0.0,S
+10.629.105/0001-68,2015-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2014-01-01,2014-12-31,3.05,Resultado Antes do Resultado Financeiro e dos Tributos,-1067875000.0,S
+10.629.105/0001-68,2015-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2015-01-01,2015-12-31,3.05,Resultado Antes do Resultado Financeiro e dos Tributos,84214000.0,S
+10.629.105/0001-68,2015-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2014-01-01,2014-12-31,3.06,Resultado Financeiro,15872000.0,S
+10.629.105/0001-68,2015-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2015-01-01,2015-12-31,3.06,Resultado Financeiro,20680000.0,S
+10.629.105/0001-68,2015-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2014-01-01,2014-12-31,3.06.01,Receitas Financeiras,81445000.0,S
+10.629.105/0001-68,2015-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2015-01-01,2015-12-31,3.06.01,Receitas Financeiras,332553000.0,S
+10.629.105/0001-68,2015-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2014-01-01,2014-12-31,3.06.02,Despesas Financeiras,-65573000.0,S
+10.629.105/0001-68,2015-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2015-01-01,2015-12-31,3.06.02,Despesas Financeiras,-311873000.0,S
+10.629.105/0001-68,2015-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2014-01-01,2014-12-31,3.07,Resultado Antes dos Tributos sobre o Lucro,-1052003000.0,S
+10.629.105/0001-68,2015-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2015-01-01,2015-12-31,3.07,Resultado Antes dos Tributos sobre o Lucro,104894000.0,S
+10.629.105/0001-68,2015-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2014-01-01,2014-12-31,3.08,Imposto de Renda e Contribuição Social sobre o Lucro,53241000.0,S
+10.629.105/0001-68,2015-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2015-01-01,2015-12-31,3.08,Imposto de Renda e Contribuição Social sobre o Lucro,5527000.0,S
+10.629.105/0001-68,2015-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2014-01-01,2014-12-31,3.08.01,Corrente,-13287000.0,S
+10.629.105/0001-68,2015-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2015-01-01,2015-12-31,3.08.01,Corrente,124000.0,S
+10.629.105/0001-68,2015-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2014-01-01,2014-12-31,3.08.02,Diferido,66528000.0,S
+10.629.105/0001-68,2015-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2015-01-01,2015-12-31,3.08.02,Diferido,5403000.0,S
+10.629.105/0001-68,2015-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2014-01-01,2014-12-31,3.09,Resultado Líquido das Operações Continuadas,-998762000.0,S
+10.629.105/0001-68,2015-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2015-01-01,2015-12-31,3.09,Resultado Líquido das Operações Continuadas,110421000.0,S
+10.629.105/0001-68,2015-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2014-01-01,2014-12-31,3.10,Resultado Líquido de Operações Descontinuadas,-4311000.0,S
+10.629.105/0001-68,2015-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2015-01-01,2015-12-31,3.10,Resultado Líquido de Operações Descontinuadas,0.0,S
+10.629.105/0001-68,2015-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2014-01-01,2014-12-31,3.10.01,Lucro/Prejuízo Líquido das Operações Descontinuadas,-4311000.0,S
+10.629.105/0001-68,2015-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2015-01-01,2015-12-31,3.10.01,Lucro/Prejuízo Líquido das Operações Descontinuadas,0.0,S
+10.629.105/0001-68,2015-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2014-01-01,2014-12-31,3.10.02,Ganhos/Perdas Líquidas sobre Ativos de Operações Descontinuadas,0.0,S
+10.629.105/0001-68,2015-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2015-01-01,2015-12-31,3.10.02,Ganhos/Perdas Líquidas sobre Ativos de Operações Descontinuadas,0.0,S
+10.629.105/0001-68,2015-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2014-01-01,2014-12-31,3.11,Lucro/Prejuízo Consolidado do Período,-1003073000.0,S
+10.629.105/0001-68,2015-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2015-01-01,2015-12-31,3.11,Lucro/Prejuízo Consolidado do Período,110421000.0,S
+10.629.105/0001-68,2015-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2014-01-01,2014-12-31,3.11.01,Atribuído a Sócios da Empresa Controladora,-1003073000.0,S
+10.629.105/0001-68,2015-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2015-01-01,2015-12-31,3.11.01,Atribuído a Sócios da Empresa Controladora,110421000.0,S
+10.629.105/0001-68,2015-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2014-01-01,2014-12-31,3.11.02,Atribuído a Sócios Não Controladores,0.0,S
+10.629.105/0001-68,2015-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2015-01-01,2015-12-31,3.11.02,Atribuído a Sócios Não Controladores,0.0,S
+10.629.105/0001-68,2015-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2014-01-01,2014-12-31,3.99,Lucro por Ação - (Reais / Ação),0.0,N
+10.629.105/0001-68,2015-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2015-01-01,2015-12-31,3.99,Lucro por Ação - (Reais / Ação),0.0,N
+10.629.105/0001-68,2015-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2014-01-01,2014-12-31,3.99.01,Lucro Básico por Ação,0.0,N
+10.629.105/0001-68,2015-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2015-01-01,2015-12-31,3.99.01,Lucro Básico por Ação,0.0,N
+10.629.105/0001-68,2015-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2014-01-01,2014-12-31,3.99.01.01,ON,-33718.5,N
+10.629.105/0001-68,2015-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2015-01-01,2015-12-31,3.99.01.01,ON,1674.6000000000001,N
+10.629.105/0001-68,2015-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2014-01-01,2014-12-31,3.99.02,Lucro Diluído por Ação,0.0,N
+10.629.105/0001-68,2015-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2015-01-01,2015-12-31,3.99.02,Lucro Diluído por Ação,0.0,N
+10.629.105/0001-68,2015-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2014-01-01,2014-12-31,3.99.02.01,ON,-33718.5,N
+10.629.105/0001-68,2015-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2015-01-01,2015-12-31,3.99.02.01,ON,1674.6000000000001,N
+10.629.105/0001-68,2016-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2015-01-01,2015-12-31,3.01,Receita de Venda de Bens e/ou Serviços,253071000.0,S
+10.629.105/0001-68,2016-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2016-01-01,2016-12-31,3.01,Receita de Venda de Bens e/ou Serviços,397871000.0,S
+10.629.105/0001-68,2016-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2015-01-01,2015-12-31,3.02,Custo dos Bens e/ou Serviços Vendidos,-294457000.0,S
+10.629.105/0001-68,2016-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2016-01-01,2016-12-31,3.02,Custo dos Bens e/ou Serviços Vendidos,-408468000.0,S
+10.629.105/0001-68,2016-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2015-01-01,2015-12-31,3.03,Resultado Bruto,-41386000.0,S
+10.629.105/0001-68,2016-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2016-01-01,2016-12-31,3.03,Resultado Bruto,-10597000.0,S
+10.629.105/0001-68,2016-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2015-01-01,2015-12-31,3.04,Despesas/Receitas Operacionais,125600000.0,S
+10.629.105/0001-68,2016-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2016-01-01,2016-12-31,3.04,Despesas/Receitas Operacionais,269681000.0,S
+10.629.105/0001-68,2016-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2015-01-01,2015-12-31,3.04.01,Despesas com Vendas,0.0,S
+10.629.105/0001-68,2016-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2016-01-01,2016-12-31,3.04.01,Despesas com Vendas,0.0,S
+10.629.105/0001-68,2016-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2015-01-01,2015-12-31,3.04.02,Despesas Gerais e Administrativas,-84354000.0,S
+10.629.105/0001-68,2016-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2016-01-01,2016-12-31,3.04.02,Despesas Gerais e Administrativas,-75029000.0,S
+10.629.105/0001-68,2016-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2015-01-01,2015-12-31,3.04.02.01,Despesas com Geologia e Geofísica,-1450000.0,N
+10.629.105/0001-68,2016-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2016-01-01,2016-12-31,3.04.02.01,Despesas com Geologia e Geofísica,-797000.0,N
+10.629.105/0001-68,2016-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2015-01-01,2015-12-31,3.04.02.02,Despesas com Pessoal,-27872000.0,N
+10.629.105/0001-68,2016-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2016-01-01,2016-12-31,3.04.02.02,Despesas com Pessoal,-27762000.0,N
+10.629.105/0001-68,2016-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2015-01-01,2015-12-31,3.04.02.03,Despesas Gerais e Administrativas,-12165000.0,N
+10.629.105/0001-68,2016-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2016-01-01,2016-12-31,3.04.02.03,Despesas Gerais e Administrativas,-11407000.0,N
+10.629.105/0001-68,2016-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2015-01-01,2015-12-31,3.04.02.04,Despesas com Serviços de Terceiros,-34046000.0,N
+10.629.105/0001-68,2016-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2016-01-01,2016-12-31,3.04.02.04,Despesas com Serviços de Terceiros,-33307000.0,N
+10.629.105/0001-68,2016-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2015-01-01,2015-12-31,3.04.02.05,Impostos e Taxas,-5626000.0,N
+10.629.105/0001-68,2016-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2016-01-01,2016-12-31,3.04.02.05,Impostos e Taxas,-1388000.0,N
+10.629.105/0001-68,2016-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2015-01-01,2015-12-31,3.04.02.06,Despesa de Depreciação,-3195000.0,N
+10.629.105/0001-68,2016-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2016-01-01,2016-12-31,3.04.02.06,Despesa de Depreciação,-368000.0,N
+10.629.105/0001-68,2016-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2015-01-01,2015-12-31,3.04.03,Perdas pela Não Recuperabilidade de Ativos,-79497000.0,S
+10.629.105/0001-68,2016-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2016-01-01,2016-12-31,3.04.03,Perdas pela Não Recuperabilidade de Ativos,0.0,S
+10.629.105/0001-68,2016-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2015-01-01,2015-12-31,3.04.03.01,Baixa de poço seco,0.0,N
+10.629.105/0001-68,2016-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2016-01-01,2016-12-31,3.04.03.01,Baixa de poço seco,0.0,N
+10.629.105/0001-68,2016-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2015-01-01,2015-12-31,3.04.03.02,Provisão de impairment,-79497000.0,N
+10.629.105/0001-68,2016-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2016-01-01,2016-12-31,3.04.03.02,Provisão de impairment,0.0,N
+10.629.105/0001-68,2016-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2015-01-01,2015-12-31,3.04.04,Outras Receitas Operacionais,271654000.0,S
+10.629.105/0001-68,2016-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2016-01-01,2016-12-31,3.04.04,Outras Receitas Operacionais,-6712000.0,S
+10.629.105/0001-68,2016-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2015-01-01,2015-12-31,3.04.04.01,Resultado na venda de participação no Solimões,0.0,N
+10.629.105/0001-68,2016-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2016-01-01,2016-12-31,3.04.04.01,Resultado na venda de participação no Solimões,0.0,N
+10.629.105/0001-68,2016-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2015-01-01,2015-12-31,3.04.04.02,Resultado na venda de ativos permanentes,271654000.0,N
+10.629.105/0001-68,2016-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2016-01-01,2016-12-31,3.04.04.02,Resultado na venda de ativos permanentes,-6712000.0,N
+10.629.105/0001-68,2016-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2015-01-01,2015-12-31,3.04.04.03,Outras,0.0,N
+10.629.105/0001-68,2016-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2016-01-01,2016-12-31,3.04.04.03,Outras,0.0,N
+10.629.105/0001-68,2016-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2015-01-01,2015-12-31,3.04.05,Outras Despesas Operacionais,17797000.0,S
+10.629.105/0001-68,2016-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2016-01-01,2016-12-31,3.04.05,Outras Despesas Operacionais,351422000.0,S
+10.629.105/0001-68,2016-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2015-01-01,2015-12-31,3.04.06,Resultado de Equivalência Patrimonial,0.0,S
+10.629.105/0001-68,2016-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2016-01-01,2016-12-31,3.04.06,Resultado de Equivalência Patrimonial,0.0,S
+10.629.105/0001-68,2016-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2015-01-01,2015-12-31,3.05,Resultado Antes do Resultado Financeiro e dos Tributos,84214000.0,S
+10.629.105/0001-68,2016-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2016-01-01,2016-12-31,3.05,Resultado Antes do Resultado Financeiro e dos Tributos,259084000.0,S
+10.629.105/0001-68,2016-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2015-01-01,2015-12-31,3.06,Resultado Financeiro,20680000.0,S
+10.629.105/0001-68,2016-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2016-01-01,2016-12-31,3.06,Resultado Financeiro,-6133000.0,S
+10.629.105/0001-68,2016-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2015-01-01,2015-12-31,3.06.01,Receitas Financeiras,332553000.0,S
+10.629.105/0001-68,2016-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2016-01-01,2016-12-31,3.06.01,Receitas Financeiras,313817000.0,S
+10.629.105/0001-68,2016-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2015-01-01,2015-12-31,3.06.02,Despesas Financeiras,-311873000.0,S
+10.629.105/0001-68,2016-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2016-01-01,2016-12-31,3.06.02,Despesas Financeiras,-319950000.0,S
+10.629.105/0001-68,2016-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2015-01-01,2015-12-31,3.07,Resultado Antes dos Tributos sobre o Lucro,104894000.0,S
+10.629.105/0001-68,2016-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2016-01-01,2016-12-31,3.07,Resultado Antes dos Tributos sobre o Lucro,252951000.0,S
+10.629.105/0001-68,2016-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2015-01-01,2015-12-31,3.08,Imposto de Renda e Contribuição Social sobre o Lucro,5527000.0,S
+10.629.105/0001-68,2016-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2016-01-01,2016-12-31,3.08,Imposto de Renda e Contribuição Social sobre o Lucro,-11329000.0,S
+10.629.105/0001-68,2016-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2015-01-01,2015-12-31,3.08.01,Corrente,124000.0,S
+10.629.105/0001-68,2016-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2016-01-01,2016-12-31,3.08.01,Corrente,-4639000.0,S
+10.629.105/0001-68,2016-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2015-01-01,2015-12-31,3.08.02,Diferido,5403000.0,S
+10.629.105/0001-68,2016-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2016-01-01,2016-12-31,3.08.02,Diferido,-6690000.0,S
+10.629.105/0001-68,2016-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2015-01-01,2015-12-31,3.09,Resultado Líquido das Operações Continuadas,110421000.0,S
+10.629.105/0001-68,2016-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2016-01-01,2016-12-31,3.09,Resultado Líquido das Operações Continuadas,241622000.0,S
+10.629.105/0001-68,2016-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2015-01-01,2015-12-31,3.10,Resultado Líquido de Operações Descontinuadas,0.0,S
+10.629.105/0001-68,2016-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2016-01-01,2016-12-31,3.10,Resultado Líquido de Operações Descontinuadas,0.0,S
+10.629.105/0001-68,2016-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2015-01-01,2015-12-31,3.10.01,Lucro/Prejuízo Líquido das Operações Descontinuadas,0.0,S
+10.629.105/0001-68,2016-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2016-01-01,2016-12-31,3.10.01,Lucro/Prejuízo Líquido das Operações Descontinuadas,0.0,S
+10.629.105/0001-68,2016-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2015-01-01,2015-12-31,3.10.02,Ganhos/Perdas Líquidas sobre Ativos de Operações Descontinuadas,0.0,S
+10.629.105/0001-68,2016-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2016-01-01,2016-12-31,3.10.02,Ganhos/Perdas Líquidas sobre Ativos de Operações Descontinuadas,0.0,S
+10.629.105/0001-68,2016-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2015-01-01,2015-12-31,3.11,Lucro/Prejuízo Consolidado do Período,110421000.0,S
+10.629.105/0001-68,2016-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2016-01-01,2016-12-31,3.11,Lucro/Prejuízo Consolidado do Período,241622000.0,S
+10.629.105/0001-68,2016-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2015-01-01,2015-12-31,3.11.01,Atribuído a Sócios da Empresa Controladora,110421000.0,S
+10.629.105/0001-68,2016-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2016-01-01,2016-12-31,3.11.01,Atribuído a Sócios da Empresa Controladora,241622000.0,S
+10.629.105/0001-68,2016-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2015-01-01,2015-12-31,3.11.02,Atribuído a Sócios Não Controladores,0.0,S
+10.629.105/0001-68,2016-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2016-01-01,2016-12-31,3.11.02,Atribuído a Sócios Não Controladores,0.0,S
+10.629.105/0001-68,2016-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2015-01-01,2015-12-31,3.99,Lucro por Ação - (Reais / Ação),0.0,N
+10.629.105/0001-68,2016-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2016-01-01,2016-12-31,3.99,Lucro por Ação - (Reais / Ação),0.0,N
+10.629.105/0001-68,2016-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2015-01-01,2015-12-31,3.99.01,Lucro Básico por Ação,0.0,N
+10.629.105/0001-68,2016-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2016-01-01,2016-12-31,3.99.01,Lucro Básico por Ação,0.0,N
+10.629.105/0001-68,2016-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2015-01-01,2015-12-31,3.99.01.01,ON,1674.6000000000001,N
+10.629.105/0001-68,2016-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2016-01-01,2016-12-31,3.99.01.01,ON,18377.44,N
+10.629.105/0001-68,2016-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2015-01-01,2015-12-31,3.99.02,Lucro Diluído por Ação,0.0,N
+10.629.105/0001-68,2016-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2016-01-01,2016-12-31,3.99.02,Lucro Diluído por Ação,0.0,N
+10.629.105/0001-68,2016-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2015-01-01,2015-12-31,3.99.02.01,ON,1674.6000000000001,N
+10.629.105/0001-68,2016-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2016-01-01,2016-12-31,3.99.02.01,ON,18377.44,N
+10.629.105/0001-68,2017-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2016-01-01,2016-12-31,3.01,Receita de Venda de Bens e/ou Serviços,397871000.0,S
+10.629.105/0001-68,2017-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2017-01-01,2017-12-31,3.01,Receita de Venda de Bens e/ou Serviços,533922000.0,S
+10.629.105/0001-68,2017-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2016-01-01,2016-12-31,3.02,Custo dos Bens e/ou Serviços Vendidos,-408468000.0,S
+10.629.105/0001-68,2017-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2017-01-01,2017-12-31,3.02,Custo dos Bens e/ou Serviços Vendidos,-435064000.0,S
+10.629.105/0001-68,2017-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2016-01-01,2016-12-31,3.03,Resultado Bruto,-10597000.0,S
+10.629.105/0001-68,2017-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2017-01-01,2017-12-31,3.03,Resultado Bruto,98858000.0,S
+10.629.105/0001-68,2017-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2016-01-01,2016-12-31,3.04,Despesas/Receitas Operacionais,269681000.0,S
+10.629.105/0001-68,2017-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2017-01-01,2017-12-31,3.04,Despesas/Receitas Operacionais,-56649000.0,S
+10.629.105/0001-68,2017-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2016-01-01,2016-12-31,3.04.01,Despesas com Vendas,0.0,S
+10.629.105/0001-68,2017-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2017-01-01,2017-12-31,3.04.01,Despesas com Vendas,0.0,S
+10.629.105/0001-68,2017-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2016-01-01,2016-12-31,3.04.02,Despesas Gerais e Administrativas,-75029000.0,S
+10.629.105/0001-68,2017-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2017-01-01,2017-12-31,3.04.02,Despesas Gerais e Administrativas,-98116000.0,S
+10.629.105/0001-68,2017-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2016-01-01,2016-12-31,3.04.02.01,Despesas com Geologia e Geofísica,-797000.0,N
+10.629.105/0001-68,2017-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2017-01-01,2017-12-31,3.04.02.01,Despesas com Geologia e Geofísica,-716000.0,N
+10.629.105/0001-68,2017-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2016-01-01,2016-12-31,3.04.02.02,Despesas com Pessoal,-27762000.0,N
+10.629.105/0001-68,2017-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2017-01-01,2017-12-31,3.04.02.02,Despesas com Pessoal,-37901000.0,N
+10.629.105/0001-68,2017-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2016-01-01,2016-12-31,3.04.02.03,Despesas Gerais e Administrativas,-11407000.0,N
+10.629.105/0001-68,2017-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2017-01-01,2017-12-31,3.04.02.03,Despesas Gerais e Administrativas,-13186000.0,N
+10.629.105/0001-68,2017-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2016-01-01,2016-12-31,3.04.02.04,Despesas com Serviços de Terceiros,-33307000.0,N
+10.629.105/0001-68,2017-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2017-01-01,2017-12-31,3.04.02.04,Despesas com Serviços de Terceiros,-40393000.0,N
+10.629.105/0001-68,2017-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2016-01-01,2016-12-31,3.04.02.05,Impostos e Taxas,-1388000.0,N
+10.629.105/0001-68,2017-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2017-01-01,2017-12-31,3.04.02.05,Impostos e Taxas,-3644000.0,N
+10.629.105/0001-68,2017-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2016-01-01,2016-12-31,3.04.02.06,Despesa de Depreciação,-368000.0,N
+10.629.105/0001-68,2017-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2017-01-01,2017-12-31,3.04.02.06,Despesa de Depreciação,-2276000.0,N
+10.629.105/0001-68,2017-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2016-01-01,2016-12-31,3.04.03,Perdas pela Não Recuperabilidade de Ativos,0.0,S
+10.629.105/0001-68,2017-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2017-01-01,2017-12-31,3.04.03,Perdas pela Não Recuperabilidade de Ativos,0.0,S
+10.629.105/0001-68,2017-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2016-01-01,2016-12-31,3.04.03.01,Baixa de poço seco,0.0,N
+10.629.105/0001-68,2017-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2017-01-01,2017-12-31,3.04.03.01,Baixa de poço seco,0.0,N
+10.629.105/0001-68,2017-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2016-01-01,2016-12-31,3.04.03.02,Provisão de impairment,0.0,N
+10.629.105/0001-68,2017-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2017-01-01,2017-12-31,3.04.03.02,Provisão de impairment,0.0,N
+10.629.105/0001-68,2017-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2016-01-01,2016-12-31,3.04.04,Outras Receitas Operacionais,-6712000.0,S
+10.629.105/0001-68,2017-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2017-01-01,2017-12-31,3.04.04,Outras Receitas Operacionais,0.0,S
+10.629.105/0001-68,2017-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2016-01-01,2016-12-31,3.04.04.01,Resultado na venda de participação no Solimões,0.0,N
+10.629.105/0001-68,2017-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2017-01-01,2017-12-31,3.04.04.01,Resultado na venda de participação no Solimões,0.0,N
+10.629.105/0001-68,2017-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2016-01-01,2016-12-31,3.04.04.02,Resultado na venda de ativos permanentes,-6712000.0,N
+10.629.105/0001-68,2017-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2017-01-01,2017-12-31,3.04.04.02,Resultado na venda de ativos permanentes,0.0,N
+10.629.105/0001-68,2017-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2016-01-01,2016-12-31,3.04.04.03,Outras,0.0,N
+10.629.105/0001-68,2017-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2017-01-01,2017-12-31,3.04.04.03,Outras,0.0,N
+10.629.105/0001-68,2017-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2016-01-01,2016-12-31,3.04.05,Outras Despesas Operacionais,351422000.0,S
+10.629.105/0001-68,2017-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2017-01-01,2017-12-31,3.04.05,Outras Despesas Operacionais,41467000.0,S
+10.629.105/0001-68,2017-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2016-01-01,2016-12-31,3.04.06,Resultado de Equivalência Patrimonial,0.0,S
+10.629.105/0001-68,2017-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2017-01-01,2017-12-31,3.04.06,Resultado de Equivalência Patrimonial,0.0,S
+10.629.105/0001-68,2017-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2016-01-01,2016-12-31,3.05,Resultado Antes do Resultado Financeiro e dos Tributos,259084000.0,S
+10.629.105/0001-68,2017-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2017-01-01,2017-12-31,3.05,Resultado Antes do Resultado Financeiro e dos Tributos,42209000.0,S
+10.629.105/0001-68,2017-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2016-01-01,2016-12-31,3.06,Resultado Financeiro,-6133000.0,S
+10.629.105/0001-68,2017-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2017-01-01,2017-12-31,3.06,Resultado Financeiro,-13775000.0,S
+10.629.105/0001-68,2017-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2016-01-01,2016-12-31,3.06.01,Receitas Financeiras,313817000.0,S
+10.629.105/0001-68,2017-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2017-01-01,2017-12-31,3.06.01,Receitas Financeiras,171756000.0,S
+10.629.105/0001-68,2017-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2016-01-01,2016-12-31,3.06.02,Despesas Financeiras,-319950000.0,S
+10.629.105/0001-68,2017-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2017-01-01,2017-12-31,3.06.02,Despesas Financeiras,-185531000.0,S
+10.629.105/0001-68,2017-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2016-01-01,2016-12-31,3.07,Resultado Antes dos Tributos sobre o Lucro,252951000.0,S
+10.629.105/0001-68,2017-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2017-01-01,2017-12-31,3.07,Resultado Antes dos Tributos sobre o Lucro,28434000.0,S
+10.629.105/0001-68,2017-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2016-01-01,2016-12-31,3.08,Imposto de Renda e Contribuição Social sobre o Lucro,-11329000.0,S
+10.629.105/0001-68,2017-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2017-01-01,2017-12-31,3.08,Imposto de Renda e Contribuição Social sobre o Lucro,2193000.0,S
+10.629.105/0001-68,2017-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2016-01-01,2016-12-31,3.08.01,Corrente,-4639000.0,S
+10.629.105/0001-68,2017-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2017-01-01,2017-12-31,3.08.01,Corrente,-2545000.0,S
+10.629.105/0001-68,2017-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2016-01-01,2016-12-31,3.08.02,Diferido,-6690000.0,S
+10.629.105/0001-68,2017-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2017-01-01,2017-12-31,3.08.02,Diferido,4738000.0,S
+10.629.105/0001-68,2017-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2016-01-01,2016-12-31,3.09,Resultado Líquido das Operações Continuadas,241622000.0,S
+10.629.105/0001-68,2017-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2017-01-01,2017-12-31,3.09,Resultado Líquido das Operações Continuadas,30627000.0,S
+10.629.105/0001-68,2017-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2016-01-01,2016-12-31,3.10,Resultado Líquido de Operações Descontinuadas,0.0,S
+10.629.105/0001-68,2017-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2017-01-01,2017-12-31,3.10,Resultado Líquido de Operações Descontinuadas,0.0,S
+10.629.105/0001-68,2017-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2016-01-01,2016-12-31,3.10.01,Lucro/Prejuízo Líquido das Operações Descontinuadas,0.0,S
+10.629.105/0001-68,2017-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2017-01-01,2017-12-31,3.10.01,Lucro/Prejuízo Líquido das Operações Descontinuadas,0.0,S
+10.629.105/0001-68,2017-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2016-01-01,2016-12-31,3.10.02,Ganhos/Perdas Líquidas sobre Ativos de Operações Descontinuadas,0.0,S
+10.629.105/0001-68,2017-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2017-01-01,2017-12-31,3.10.02,Ganhos/Perdas Líquidas sobre Ativos de Operações Descontinuadas,0.0,S
+10.629.105/0001-68,2017-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2016-01-01,2016-12-31,3.11,Lucro/Prejuízo Consolidado do Período,241622000.0,S
+10.629.105/0001-68,2017-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2017-01-01,2017-12-31,3.11,Lucro/Prejuízo Consolidado do Período,30627000.0,S
+10.629.105/0001-68,2017-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2016-01-01,2016-12-31,3.11.01,Atribuído a Sócios da Empresa Controladora,241622000.0,S
+10.629.105/0001-68,2017-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2017-01-01,2017-12-31,3.11.01,Atribuído a Sócios da Empresa Controladora,30627000.0,S
+10.629.105/0001-68,2017-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2016-01-01,2016-12-31,3.11.02,Atribuído a Sócios Não Controladores,0.0,S
+10.629.105/0001-68,2017-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2017-01-01,2017-12-31,3.11.02,Atribuído a Sócios Não Controladores,0.0,S
+10.629.105/0001-68,2017-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2016-01-01,2016-12-31,3.99,Lucro por Ação - (Reais / Ação),0.0,N
+10.629.105/0001-68,2017-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2017-01-01,2017-12-31,3.99,Lucro por Ação - (Reais / Ação),0.0,N
+10.629.105/0001-68,2017-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2016-01-01,2016-12-31,3.99.01,Lucro Básico por Ação,0.0,N
+10.629.105/0001-68,2017-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2017-01-01,2017-12-31,3.99.01,Lucro Básico por Ação,0.0,N
+10.629.105/0001-68,2017-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2016-01-01,2016-12-31,3.99.01.01,ON,18377.44,N
+10.629.105/0001-68,2017-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2017-01-01,2017-12-31,3.99.01.01,ON,2446.0,N
+10.629.105/0001-68,2017-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2016-01-01,2016-12-31,3.99.02,Lucro Diluído por Ação,0.0,N
+10.629.105/0001-68,2017-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2017-01-01,2017-12-31,3.99.02,Lucro Diluído por Ação,0.0,N
+10.629.105/0001-68,2017-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2016-01-01,2016-12-31,3.99.02.01,ON,18377.44,N
+10.629.105/0001-68,2017-12-31,2,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2017-01-01,2017-12-31,3.99.02.01,ON,2446.0,N
+10.629.105/0001-68,2018-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2017-01-01,2017-12-31,3.01,Receita de Venda de Bens e/ou Serviços,533922000.0,S
+10.629.105/0001-68,2018-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2018-01-01,2018-12-31,3.01,Receita de Venda de Bens e/ou Serviços,848920000.0,S
+10.629.105/0001-68,2018-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2017-01-01,2017-12-31,3.02,Custo dos Bens e/ou Serviços Vendidos,-435064000.0,S
+10.629.105/0001-68,2018-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2018-01-01,2018-12-31,3.02,Custo dos Bens e/ou Serviços Vendidos,-528809000.0,S
+10.629.105/0001-68,2018-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2017-01-01,2017-12-31,3.03,Resultado Bruto,98858000.0,S
+10.629.105/0001-68,2018-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2018-01-01,2018-12-31,3.03,Resultado Bruto,320111000.0,S
+10.629.105/0001-68,2018-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2017-01-01,2017-12-31,3.04,Despesas/Receitas Operacionais,-56649000.0,S
+10.629.105/0001-68,2018-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2018-01-01,2018-12-31,3.04,Despesas/Receitas Operacionais,-149811000.0,S
+10.629.105/0001-68,2018-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2017-01-01,2017-12-31,3.04.01,Despesas com Vendas,0.0,S
+10.629.105/0001-68,2018-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2018-01-01,2018-12-31,3.04.01,Despesas com Vendas,0.0,S
+10.629.105/0001-68,2018-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2017-01-01,2017-12-31,3.04.02,Despesas Gerais e Administrativas,-98116000.0,S
+10.629.105/0001-68,2018-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2018-01-01,2018-12-31,3.04.02,Despesas Gerais e Administrativas,-117971000.0,S
+10.629.105/0001-68,2018-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2017-01-01,2017-12-31,3.04.02.01,Despesas com Geologia e Geofísica,-716000.0,N
+10.629.105/0001-68,2018-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2018-01-01,2018-12-31,3.04.02.01,Despesas com Geologia e Geofísica,-2560000.0,N
+10.629.105/0001-68,2018-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2017-01-01,2017-12-31,3.04.02.02,Despesas com Pessoal,-37901000.0,N
+10.629.105/0001-68,2018-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2018-01-01,2018-12-31,3.04.02.02,Despesas com Pessoal,-54478000.0,N
+10.629.105/0001-68,2018-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2017-01-01,2017-12-31,3.04.02.03,Despesas Gerais e Administrativas,-13186000.0,N
+10.629.105/0001-68,2018-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2018-01-01,2018-12-31,3.04.02.03,Despesas Gerais e Administrativas,-19305000.0,N
+10.629.105/0001-68,2018-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2017-01-01,2017-12-31,3.04.02.04,Despesas com Serviços de Terceiros,-40393000.0,N
+10.629.105/0001-68,2018-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2018-01-01,2018-12-31,3.04.02.04,Despesas com Serviços de Terceiros,-33751000.0,N
+10.629.105/0001-68,2018-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2017-01-01,2017-12-31,3.04.02.05,Impostos e Taxas,-3644000.0,N
+10.629.105/0001-68,2018-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2018-01-01,2018-12-31,3.04.02.05,Impostos e Taxas,-5547000.0,N
+10.629.105/0001-68,2018-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2017-01-01,2017-12-31,3.04.02.06,Despesa de Depreciação,-2276000.0,N
+10.629.105/0001-68,2018-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2018-01-01,2018-12-31,3.04.02.06,Despesa de Depreciação,-2330000.0,N
+10.629.105/0001-68,2018-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2017-01-01,2017-12-31,3.04.03,Perdas pela Não Recuperabilidade de Ativos,0.0,S
+10.629.105/0001-68,2018-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2018-01-01,2018-12-31,3.04.03,Perdas pela Não Recuperabilidade de Ativos,-89000.0,S
+10.629.105/0001-68,2018-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2017-01-01,2017-12-31,3.04.03.01,Baixa de poço seco,0.0,N
+10.629.105/0001-68,2018-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2018-01-01,2018-12-31,3.04.03.01,Baixa de poço seco,0.0,N
+10.629.105/0001-68,2018-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2017-01-01,2017-12-31,3.04.03.02,Provisão de impairment,0.0,N
+10.629.105/0001-68,2018-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2018-01-01,2018-12-31,3.04.03.02,Provisão de impairment,-89000.0,N
+10.629.105/0001-68,2018-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2017-01-01,2017-12-31,3.04.04,Outras Receitas Operacionais,0.0,S
+10.629.105/0001-68,2018-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2018-01-01,2018-12-31,3.04.04,Outras Receitas Operacionais,0.0,S
+10.629.105/0001-68,2018-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2017-01-01,2017-12-31,3.04.04.01,Resultado na venda de participação no Solimões,0.0,N
+10.629.105/0001-68,2018-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2018-01-01,2018-12-31,3.04.04.01,Resultado na venda de participação no Solimões,0.0,N
+10.629.105/0001-68,2018-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2017-01-01,2017-12-31,3.04.04.02,Resultado na venda de ativos permanentes,0.0,N
+10.629.105/0001-68,2018-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2018-01-01,2018-12-31,3.04.04.02,Resultado na venda de ativos permanentes,0.0,N
+10.629.105/0001-68,2018-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2017-01-01,2017-12-31,3.04.04.03,Outras,0.0,N
+10.629.105/0001-68,2018-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2018-01-01,2018-12-31,3.04.04.03,Outras,0.0,N
+10.629.105/0001-68,2018-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2017-01-01,2017-12-31,3.04.05,Outras Despesas Operacionais,41467000.0,S
+10.629.105/0001-68,2018-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2018-01-01,2018-12-31,3.04.05,Outras Despesas Operacionais,-31751000.0,S
+10.629.105/0001-68,2018-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2017-01-01,2017-12-31,3.04.06,Resultado de Equivalência Patrimonial,0.0,S
+10.629.105/0001-68,2018-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2018-01-01,2018-12-31,3.04.06,Resultado de Equivalência Patrimonial,0.0,S
+10.629.105/0001-68,2018-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2017-01-01,2017-12-31,3.05,Resultado Antes do Resultado Financeiro e dos Tributos,42209000.0,S
+10.629.105/0001-68,2018-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2018-01-01,2018-12-31,3.05,Resultado Antes do Resultado Financeiro e dos Tributos,170300000.0,S
+10.629.105/0001-68,2018-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2017-01-01,2017-12-31,3.06,Resultado Financeiro,6449000.0,S
+10.629.105/0001-68,2018-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2018-01-01,2018-12-31,3.06,Resultado Financeiro,71077000.0,S
+10.629.105/0001-68,2018-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2017-01-01,2017-12-31,3.06.01,Receitas Financeiras,171756000.0,S
+10.629.105/0001-68,2018-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2018-01-01,2018-12-31,3.06.01,Receitas Financeiras,313524000.0,S
+10.629.105/0001-68,2018-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2017-01-01,2017-12-31,3.06.02,Despesas Financeiras,-165307000.0,S
+10.629.105/0001-68,2018-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2018-01-01,2018-12-31,3.06.02,Despesas Financeiras,-242447000.0,S
+10.629.105/0001-68,2018-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2017-01-01,2017-12-31,3.07,Resultado Antes dos Tributos sobre o Lucro,48658000.0,S
+10.629.105/0001-68,2018-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2018-01-01,2018-12-31,3.07,Resultado Antes dos Tributos sobre o Lucro,241377000.0,S
+10.629.105/0001-68,2018-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2017-01-01,2017-12-31,3.08,Imposto de Renda e Contribuição Social sobre o Lucro,2193000.0,S
+10.629.105/0001-68,2018-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2018-01-01,2018-12-31,3.08,Imposto de Renda e Contribuição Social sobre o Lucro,-36502000.0,S
+10.629.105/0001-68,2018-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2017-01-01,2017-12-31,3.08.01,Corrente,-2545000.0,S
+10.629.105/0001-68,2018-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2018-01-01,2018-12-31,3.08.01,Corrente,-42969000.0,S
+10.629.105/0001-68,2018-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2017-01-01,2017-12-31,3.08.02,Diferido,4738000.0,S
+10.629.105/0001-68,2018-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2018-01-01,2018-12-31,3.08.02,Diferido,6467000.0,S
+10.629.105/0001-68,2018-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2017-01-01,2017-12-31,3.09,Resultado Líquido das Operações Continuadas,50851000.0,S
+10.629.105/0001-68,2018-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2018-01-01,2018-12-31,3.09,Resultado Líquido das Operações Continuadas,204875000.0,S
+10.629.105/0001-68,2018-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2017-01-01,2017-12-31,3.10,Resultado Líquido de Operações Descontinuadas,0.0,S
+10.629.105/0001-68,2018-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2018-01-01,2018-12-31,3.10,Resultado Líquido de Operações Descontinuadas,0.0,S
+10.629.105/0001-68,2018-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2017-01-01,2017-12-31,3.10.01,Lucro/Prejuízo Líquido das Operações Descontinuadas,0.0,S
+10.629.105/0001-68,2018-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2018-01-01,2018-12-31,3.10.01,Lucro/Prejuízo Líquido das Operações Descontinuadas,0.0,S
+10.629.105/0001-68,2018-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2017-01-01,2017-12-31,3.10.02,Ganhos/Perdas Líquidas sobre Ativos de Operações Descontinuadas,0.0,S
+10.629.105/0001-68,2018-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2018-01-01,2018-12-31,3.10.02,Ganhos/Perdas Líquidas sobre Ativos de Operações Descontinuadas,0.0,S
+10.629.105/0001-68,2018-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2017-01-01,2017-12-31,3.11,Lucro/Prejuízo Consolidado do Período,50851000.0,S
+10.629.105/0001-68,2018-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2018-01-01,2018-12-31,3.11,Lucro/Prejuízo Consolidado do Período,204875000.0,S
+10.629.105/0001-68,2018-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2017-01-01,2017-12-31,3.11.01,Atribuído a Sócios da Empresa Controladora,50851000.0,S
+10.629.105/0001-68,2018-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2018-01-01,2018-12-31,3.11.01,Atribuído a Sócios da Empresa Controladora,204875000.0,S
+10.629.105/0001-68,2018-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2017-01-01,2017-12-31,3.11.02,Atribuído a Sócios Não Controladores,0.0,S
+10.629.105/0001-68,2018-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2018-01-01,2018-12-31,3.11.02,Atribuído a Sócios Não Controladores,0.0,S
+10.629.105/0001-68,2018-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2017-01-01,2017-12-31,3.99,Lucro por Ação - (Reais / Ação),0.0,N
+10.629.105/0001-68,2018-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2018-01-01,2018-12-31,3.99,Lucro por Ação - (Reais / Ação),0.0,N
+10.629.105/0001-68,2018-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2017-01-01,2017-12-31,3.99.01,Lucro Básico por Ação,0.0,N
+10.629.105/0001-68,2018-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2018-01-01,2018-12-31,3.99.01,Lucro Básico por Ação,0.0,N
+10.629.105/0001-68,2018-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2017-01-01,2017-12-31,3.99.01.01,ON,3854.704527,N
+10.629.105/0001-68,2018-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2018-01-01,2018-12-31,3.99.01.01,ON,16848.600000000002,N
+10.629.105/0001-68,2018-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2017-01-01,2017-12-31,3.99.02,Lucro Diluído por Ação,0.0,N
+10.629.105/0001-68,2018-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2018-01-01,2018-12-31,3.99.02,Lucro Diluído por Ação,0.0,N
+10.629.105/0001-68,2018-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2017-01-01,2017-12-31,3.99.02.01,ON,3854.704527,N
+10.629.105/0001-68,2018-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2018-01-01,2018-12-31,3.99.02.01,ON,16848.600000000002,N
+10.629.105/0001-68,2019-12-31,3,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2018-01-01,2018-12-31,3.01,Receita de Venda de Bens e/ou Serviços,848920000.0,S
+10.629.105/0001-68,2019-12-31,3,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2019-01-01,2019-12-31,3.01,Receita de Venda de Bens e/ou Serviços,1644346000.0,S
+10.629.105/0001-68,2019-12-31,3,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2018-01-01,2018-12-31,3.02,Custo dos Bens e/ou Serviços Vendidos,-524489000.0,S
+10.629.105/0001-68,2019-12-31,3,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2019-01-01,2019-12-31,3.02,Custo dos Bens e/ou Serviços Vendidos,-940379000.0,S
+10.629.105/0001-68,2019-12-31,3,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2018-01-01,2018-12-31,3.03,Resultado Bruto,324431000.0,S
+10.629.105/0001-68,2019-12-31,3,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2019-01-01,2019-12-31,3.03,Resultado Bruto,703967000.0,S
+10.629.105/0001-68,2019-12-31,3,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2018-01-01,2018-12-31,3.04,Despesas/Receitas Operacionais,-137816000.0,S
+10.629.105/0001-68,2019-12-31,3,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2019-01-01,2019-12-31,3.04,Despesas/Receitas Operacionais,174289000.0,S
+10.629.105/0001-68,2019-12-31,3,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2018-01-01,2018-12-31,3.04.01,Despesas com Vendas,0.0,S
+10.629.105/0001-68,2019-12-31,3,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2019-01-01,2019-12-31,3.04.01,Despesas com Vendas,0.0,S
+10.629.105/0001-68,2019-12-31,3,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2018-01-01,2018-12-31,3.04.02,Despesas Gerais e Administrativas,-117971000.0,S
+10.629.105/0001-68,2019-12-31,3,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2019-01-01,2019-12-31,3.04.02,Despesas Gerais e Administrativas,-245716000.0,S
+10.629.105/0001-68,2019-12-31,3,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2018-01-01,2018-12-31,3.04.02.01,Despesas com Geologia e Geofísica,-2560000.0,N
+10.629.105/0001-68,2019-12-31,3,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2019-01-01,2019-12-31,3.04.02.01,Despesas com Geologia e Geofísica,-595000.0,N
+10.629.105/0001-68,2019-12-31,3,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2018-01-01,2018-12-31,3.04.02.02,Despesas com Pessoal,-54478000.0,N
+10.629.105/0001-68,2019-12-31,3,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2019-01-01,2019-12-31,3.04.02.02,Despesas com Pessoal,-48245000.0,N
+10.629.105/0001-68,2019-12-31,3,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2018-01-01,2018-12-31,3.04.02.03,Despesas Gerais e Administrativas,-19305000.0,N
+10.629.105/0001-68,2019-12-31,3,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2019-01-01,2019-12-31,3.04.02.03,Despesas Gerais e Administrativas,-25147000.0,N
+10.629.105/0001-68,2019-12-31,3,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2018-01-01,2018-12-31,3.04.02.04,Despesas com Serviços de Terceiros,-33751000.0,N
+10.629.105/0001-68,2019-12-31,3,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2019-01-01,2019-12-31,3.04.02.04,Despesas com Serviços de Terceiros,-34519000.0,N
+10.629.105/0001-68,2019-12-31,3,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2018-01-01,2018-12-31,3.04.02.05,Impostos e Taxas,-5547000.0,N
+10.629.105/0001-68,2019-12-31,3,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2019-01-01,2019-12-31,3.04.02.05,Impostos e Taxas,-11130000.0,N
+10.629.105/0001-68,2019-12-31,3,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2018-01-01,2018-12-31,3.04.02.06,Despesa de Depreciação,-2330000.0,N
+10.629.105/0001-68,2019-12-31,3,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2019-01-01,2019-12-31,3.04.02.06,Despesa de Depreciação,-126080000.0,N
+10.629.105/0001-68,2019-12-31,3,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2018-01-01,2018-12-31,3.04.03,Perdas pela Não Recuperabilidade de Ativos,0.0,S
+10.629.105/0001-68,2019-12-31,3,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2019-01-01,2019-12-31,3.04.03,Perdas pela Não Recuperabilidade de Ativos,0.0,S
+10.629.105/0001-68,2019-12-31,3,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2018-01-01,2018-12-31,3.04.03.01,Baixa de poço seco,0.0,N
+10.629.105/0001-68,2019-12-31,3,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2019-01-01,2019-12-31,3.04.03.01,Baixa de poço seco,0.0,N
+10.629.105/0001-68,2019-12-31,3,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2018-01-01,2018-12-31,3.04.03.02,Provisão de impairment,0.0,N
+10.629.105/0001-68,2019-12-31,3,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2019-01-01,2019-12-31,3.04.03.02,Provisão de impairment,0.0,N
+10.629.105/0001-68,2019-12-31,3,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2018-01-01,2018-12-31,3.04.04,Outras Receitas Operacionais,0.0,S
+10.629.105/0001-68,2019-12-31,3,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2019-01-01,2019-12-31,3.04.04,Outras Receitas Operacionais,0.0,S
+10.629.105/0001-68,2019-12-31,3,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2018-01-01,2018-12-31,3.04.04.01,Resultado na venda de participação no Solimões,0.0,N
+10.629.105/0001-68,2019-12-31,3,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2019-01-01,2019-12-31,3.04.04.01,Resultado na venda de participação no Solimões,0.0,N
+10.629.105/0001-68,2019-12-31,3,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2018-01-01,2018-12-31,3.04.04.02,Resultado na venda de ativos permanentes,0.0,N
+10.629.105/0001-68,2019-12-31,3,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2019-01-01,2019-12-31,3.04.04.02,Resultado na venda de ativos permanentes,0.0,N
+10.629.105/0001-68,2019-12-31,3,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2018-01-01,2018-12-31,3.04.04.03,Outras,0.0,N
+10.629.105/0001-68,2019-12-31,3,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2019-01-01,2019-12-31,3.04.04.03,Outras,0.0,N
+10.629.105/0001-68,2019-12-31,3,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2018-01-01,2018-12-31,3.04.05,Outras Despesas Operacionais,-19845000.0,S
+10.629.105/0001-68,2019-12-31,3,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2019-01-01,2019-12-31,3.04.05,Outras Despesas Operacionais,420005000.0,S
+10.629.105/0001-68,2019-12-31,3,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2018-01-01,2018-12-31,3.04.06,Resultado de Equivalência Patrimonial,0.0,S
+10.629.105/0001-68,2019-12-31,3,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2019-01-01,2019-12-31,3.04.06,Resultado de Equivalência Patrimonial,0.0,S
+10.629.105/0001-68,2019-12-31,3,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2018-01-01,2018-12-31,3.05,Resultado Antes do Resultado Financeiro e dos Tributos,186615000.0,S
+10.629.105/0001-68,2019-12-31,3,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2019-01-01,2019-12-31,3.05,Resultado Antes do Resultado Financeiro e dos Tributos,878256000.0,S
+10.629.105/0001-68,2019-12-31,3,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2018-01-01,2018-12-31,3.06,Resultado Financeiro,50870000.0,S
+10.629.105/0001-68,2019-12-31,3,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2019-01-01,2019-12-31,3.06,Resultado Financeiro,-337254000.0,S
+10.629.105/0001-68,2019-12-31,3,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2018-01-01,2018-12-31,3.06.01,Receitas Financeiras,316685000.0,S
+10.629.105/0001-68,2019-12-31,3,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2019-01-01,2019-12-31,3.06.01,Receitas Financeiras,377142000.0,S
+10.629.105/0001-68,2019-12-31,3,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2018-01-01,2018-12-31,3.06.02,Despesas Financeiras,-265815000.0,S
+10.629.105/0001-68,2019-12-31,3,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2019-01-01,2019-12-31,3.06.02,Despesas Financeiras,-714396000.0,S
+10.629.105/0001-68,2019-12-31,3,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2018-01-01,2018-12-31,3.07,Resultado Antes dos Tributos sobre o Lucro,237485000.0,S
+10.629.105/0001-68,2019-12-31,3,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2019-01-01,2019-12-31,3.07,Resultado Antes dos Tributos sobre o Lucro,541002000.0,S
+10.629.105/0001-68,2019-12-31,3,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2018-01-01,2018-12-31,3.08,Imposto de Renda e Contribuição Social sobre o Lucro,-31189000.0,S
+10.629.105/0001-68,2019-12-31,3,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2019-01-01,2019-12-31,3.08,Imposto de Renda e Contribuição Social sobre o Lucro,301344000.0,S
+10.629.105/0001-68,2019-12-31,3,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2018-01-01,2018-12-31,3.08.01,Corrente,-42969000.0,S
+10.629.105/0001-68,2019-12-31,3,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2019-01-01,2019-12-31,3.08.01,Corrente,-55658000.0,S
+10.629.105/0001-68,2019-12-31,3,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2018-01-01,2018-12-31,3.08.02,Diferido,11780000.0,S
+10.629.105/0001-68,2019-12-31,3,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2019-01-01,2019-12-31,3.08.02,Diferido,357002000.0,S
+10.629.105/0001-68,2019-12-31,3,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2018-01-01,2018-12-31,3.09,Resultado Líquido das Operações Continuadas,206296000.0,S
+10.629.105/0001-68,2019-12-31,3,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2019-01-01,2019-12-31,3.09,Resultado Líquido das Operações Continuadas,842346000.0,S
+10.629.105/0001-68,2019-12-31,3,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2018-01-01,2018-12-31,3.10,Resultado Líquido de Operações Descontinuadas,0.0,S
+10.629.105/0001-68,2019-12-31,3,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2019-01-01,2019-12-31,3.10,Resultado Líquido de Operações Descontinuadas,0.0,S
+10.629.105/0001-68,2019-12-31,3,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2018-01-01,2018-12-31,3.10.01,Lucro/Prejuízo Líquido das Operações Descontinuadas,0.0,S
+10.629.105/0001-68,2019-12-31,3,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2019-01-01,2019-12-31,3.10.01,Lucro/Prejuízo Líquido das Operações Descontinuadas,0.0,S
+10.629.105/0001-68,2019-12-31,3,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2018-01-01,2018-12-31,3.10.02,Ganhos/Perdas Líquidas sobre Ativos de Operações Descontinuadas,0.0,S
+10.629.105/0001-68,2019-12-31,3,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2019-01-01,2019-12-31,3.10.02,Ganhos/Perdas Líquidas sobre Ativos de Operações Descontinuadas,0.0,S
+10.629.105/0001-68,2019-12-31,3,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2018-01-01,2018-12-31,3.11,Lucro/Prejuízo Consolidado do Período,206296000.0,S
+10.629.105/0001-68,2019-12-31,3,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2019-01-01,2019-12-31,3.11,Lucro/Prejuízo Consolidado do Período,842346000.0,S
+10.629.105/0001-68,2019-12-31,3,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2018-01-01,2018-12-31,3.11.01,Atribuído a Sócios da Empresa Controladora,206296000.0,S
+10.629.105/0001-68,2019-12-31,3,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2019-01-01,2019-12-31,3.11.01,Atribuído a Sócios da Empresa Controladora,842346000.0,S
+10.629.105/0001-68,2019-12-31,3,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2018-01-01,2018-12-31,3.11.02,Atribuído a Sócios Não Controladores,0.0,S
+10.629.105/0001-68,2019-12-31,3,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2019-01-01,2019-12-31,3.11.02,Atribuído a Sócios Não Controladores,0.0,S
+10.629.105/0001-68,2019-12-31,3,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2018-01-01,2018-12-31,3.99,Lucro por Ação - (Reais / Ação),0.0,N
+10.629.105/0001-68,2019-12-31,3,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2019-01-01,2019-12-31,3.99,Lucro por Ação - (Reais / Ação),0.0,N
+10.629.105/0001-68,2019-12-31,3,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2018-01-01,2018-12-31,3.99.01,Lucro Básico por Ação,0.0,N
+10.629.105/0001-68,2019-12-31,3,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2019-01-01,2019-12-31,3.99.01,Lucro Básico por Ação,0.0,N
+10.629.105/0001-68,2019-12-31,3,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2018-01-01,2018-12-31,3.99.01.01,ON,1697.0,N
+10.629.105/0001-68,2019-12-31,3,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2019-01-01,2019-12-31,3.99.01.01,ON,6301.0,N
+10.629.105/0001-68,2019-12-31,3,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2018-01-01,2018-12-31,3.99.02,Lucro Diluído por Ação,0.0,N
+10.629.105/0001-68,2019-12-31,3,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2019-01-01,2019-12-31,3.99.02,Lucro Diluído por Ação,0.0,N
+10.629.105/0001-68,2019-12-31,3,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2018-01-01,2018-12-31,3.99.02.01,ON,1697.0,N
+10.629.105/0001-68,2019-12-31,3,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2019-01-01,2019-12-31,3.99.02.01,ON,6301.0,N
+10.629.105/0001-68,2020-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2019-01-01,2019-12-31,3.01,Receita de Venda de Bens e/ou Serviços,1644346000.0,S
+10.629.105/0001-68,2020-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2020-01-01,2020-12-31,3.01,Receita de Venda de Bens e/ou Serviços,1904185000.0,S
+10.629.105/0001-68,2020-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2019-01-01,2019-12-31,3.02,Custo dos Bens e/ou Serviços Vendidos,-940379000.0,S
+10.629.105/0001-68,2020-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2020-01-01,2020-12-31,3.02,Custo dos Bens e/ou Serviços Vendidos,-1286926000.0,S
+10.629.105/0001-68,2020-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2019-01-01,2019-12-31,3.03,Resultado Bruto,703967000.0,S
+10.629.105/0001-68,2020-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2020-01-01,2020-12-31,3.03,Resultado Bruto,617259000.0,S
+10.629.105/0001-68,2020-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2019-01-01,2019-12-31,3.04,Despesas/Receitas Operacionais,174289000.0,S
+10.629.105/0001-68,2020-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2020-01-01,2020-12-31,3.04,Despesas/Receitas Operacionais,325490000.0,S
+10.629.105/0001-68,2020-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2019-01-01,2019-12-31,3.04.01,Despesas com Vendas,0.0,S
+10.629.105/0001-68,2020-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2020-01-01,2020-12-31,3.04.01,Despesas com Vendas,0.0,S
+10.629.105/0001-68,2020-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2019-01-01,2019-12-31,3.04.02,Despesas Gerais e Administrativas,-245716000.0,S
+10.629.105/0001-68,2020-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2020-01-01,2020-12-31,3.04.02,Despesas Gerais e Administrativas,-337947000.0,S
+10.629.105/0001-68,2020-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2019-01-01,2019-12-31,3.04.02.01,Despesas com Geologia e Geofísica,-595000.0,N
+10.629.105/0001-68,2020-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2020-01-01,2020-12-31,3.04.02.01,Despesas com Geologia e Geofísica,-471000.0,N
+10.629.105/0001-68,2020-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2019-01-01,2019-12-31,3.04.02.02,Despesas com Pessoal,-48245000.0,N
+10.629.105/0001-68,2020-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2020-01-01,2020-12-31,3.04.02.02,Despesas com Pessoal,-37853000.0,N
+10.629.105/0001-68,2020-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2019-01-01,2019-12-31,3.04.02.03,Despesas Gerais e Administrativas,-25147000.0,N
+10.629.105/0001-68,2020-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2020-01-01,2020-12-31,3.04.02.03,Despesas Gerais e Administrativas,-43487000.0,N
+10.629.105/0001-68,2020-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2019-01-01,2019-12-31,3.04.02.04,Despesas com Serviços de Terceiros,-34519000.0,N
+10.629.105/0001-68,2020-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2020-01-01,2020-12-31,3.04.02.04,Despesas com Serviços de Terceiros,-46242000.0,N
+10.629.105/0001-68,2020-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2019-01-01,2019-12-31,3.04.02.05,Impostos e Taxas,-11130000.0,N
+10.629.105/0001-68,2020-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2020-01-01,2020-12-31,3.04.02.05,Impostos e Taxas,-16378000.0,N
+10.629.105/0001-68,2020-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2019-01-01,2019-12-31,3.04.02.06,Despesa de Depreciação,-126080000.0,N
+10.629.105/0001-68,2020-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2020-01-01,2020-12-31,3.04.02.06,Despesa de Depreciação,-193516000.0,N
+10.629.105/0001-68,2020-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2019-01-01,2019-12-31,3.04.03,Perdas pela Não Recuperabilidade de Ativos,0.0,S
+10.629.105/0001-68,2020-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2020-01-01,2020-12-31,3.04.03,Perdas pela Não Recuperabilidade de Ativos,0.0,S
+10.629.105/0001-68,2020-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2019-01-01,2019-12-31,3.04.03.01,Baixa de poço seco,0.0,N
+10.629.105/0001-68,2020-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2020-01-01,2020-12-31,3.04.03.01,Baixa de poço seco,0.0,N
+10.629.105/0001-68,2020-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2019-01-01,2019-12-31,3.04.03.02,Provisão de impairment,0.0,N
+10.629.105/0001-68,2020-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2020-01-01,2020-12-31,3.04.03.02,Provisão de impairment,0.0,N
+10.629.105/0001-68,2020-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2019-01-01,2019-12-31,3.04.04,Outras Receitas Operacionais,0.0,S
+10.629.105/0001-68,2020-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2020-01-01,2020-12-31,3.04.04,Outras Receitas Operacionais,0.0,S
+10.629.105/0001-68,2020-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2019-01-01,2019-12-31,3.04.04.01,Resultado na venda de participação no Solimões,0.0,N
+10.629.105/0001-68,2020-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2020-01-01,2020-12-31,3.04.04.01,Resultado na venda de participação no Solimões,0.0,N
+10.629.105/0001-68,2020-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2019-01-01,2019-12-31,3.04.04.02,Resultado na venda de ativos permanentes,0.0,N
+10.629.105/0001-68,2020-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2020-01-01,2020-12-31,3.04.04.02,Resultado na venda de ativos permanentes,0.0,N
+10.629.105/0001-68,2020-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2019-01-01,2019-12-31,3.04.04.03,Outras,0.0,N
+10.629.105/0001-68,2020-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2020-01-01,2020-12-31,3.04.04.03,Outras,0.0,N
+10.629.105/0001-68,2020-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2019-01-01,2019-12-31,3.04.05,Outras Despesas Operacionais,420005000.0,S
+10.629.105/0001-68,2020-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2020-01-01,2020-12-31,3.04.05,Outras Despesas Operacionais,663437000.0,S
+10.629.105/0001-68,2020-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2019-01-01,2019-12-31,3.04.06,Resultado de Equivalência Patrimonial,0.0,S
+10.629.105/0001-68,2020-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2020-01-01,2020-12-31,3.04.06,Resultado de Equivalência Patrimonial,0.0,S
+10.629.105/0001-68,2020-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2019-01-01,2019-12-31,3.05,Resultado Antes do Resultado Financeiro e dos Tributos,878256000.0,S
+10.629.105/0001-68,2020-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2020-01-01,2020-12-31,3.05,Resultado Antes do Resultado Financeiro e dos Tributos,942749000.0,S
+10.629.105/0001-68,2020-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2019-01-01,2019-12-31,3.06,Resultado Financeiro,-337254000.0,S
+10.629.105/0001-68,2020-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2020-01-01,2020-12-31,3.06,Resultado Financeiro,-458669000.0,S
+10.629.105/0001-68,2020-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2019-01-01,2019-12-31,3.06.01,Receitas Financeiras,377142000.0,S
+10.629.105/0001-68,2020-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2020-01-01,2020-12-31,3.06.01,Receitas Financeiras,1469151000.0,S
+10.629.105/0001-68,2020-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2019-01-01,2019-12-31,3.06.02,Despesas Financeiras,-714396000.0,S
+10.629.105/0001-68,2020-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2020-01-01,2020-12-31,3.06.02,Despesas Financeiras,-1927820000.0,S
+10.629.105/0001-68,2020-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2019-01-01,2019-12-31,3.07,Resultado Antes dos Tributos sobre o Lucro,541002000.0,S
+10.629.105/0001-68,2020-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2020-01-01,2020-12-31,3.07,Resultado Antes dos Tributos sobre o Lucro,484080000.0,S
+10.629.105/0001-68,2020-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2019-01-01,2019-12-31,3.08,Imposto de Renda e Contribuição Social sobre o Lucro,301344000.0,S
+10.629.105/0001-68,2020-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2020-01-01,2020-12-31,3.08,Imposto de Renda e Contribuição Social sobre o Lucro,-31167000.0,S
+10.629.105/0001-68,2020-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2019-01-01,2019-12-31,3.08.01,Corrente,-55658000.0,S
+10.629.105/0001-68,2020-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2020-01-01,2020-12-31,3.08.01,Corrente,-77140000.0,S
+10.629.105/0001-68,2020-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2019-01-01,2019-12-31,3.08.02,Diferido,357002000.0,S
+10.629.105/0001-68,2020-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2020-01-01,2020-12-31,3.08.02,Diferido,45973000.0,S
+10.629.105/0001-68,2020-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2019-01-01,2019-12-31,3.09,Resultado Líquido das Operações Continuadas,842346000.0,S
+10.629.105/0001-68,2020-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2020-01-01,2020-12-31,3.09,Resultado Líquido das Operações Continuadas,452913000.0,S
+10.629.105/0001-68,2020-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2019-01-01,2019-12-31,3.10,Resultado Líquido de Operações Descontinuadas,0.0,S
+10.629.105/0001-68,2020-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2020-01-01,2020-12-31,3.10,Resultado Líquido de Operações Descontinuadas,0.0,S
+10.629.105/0001-68,2020-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2019-01-01,2019-12-31,3.10.01,Lucro/Prejuízo Líquido das Operações Descontinuadas,0.0,S
+10.629.105/0001-68,2020-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2020-01-01,2020-12-31,3.10.01,Lucro/Prejuízo Líquido das Operações Descontinuadas,0.0,S
+10.629.105/0001-68,2020-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2019-01-01,2019-12-31,3.10.02,Ganhos/Perdas Líquidas sobre Ativos de Operações Descontinuadas,0.0,S
+10.629.105/0001-68,2020-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2020-01-01,2020-12-31,3.10.02,Ganhos/Perdas Líquidas sobre Ativos de Operações Descontinuadas,0.0,S
+10.629.105/0001-68,2020-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2019-01-01,2019-12-31,3.11,Lucro/Prejuízo Consolidado do Período,842346000.0,S
+10.629.105/0001-68,2020-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2020-01-01,2020-12-31,3.11,Lucro/Prejuízo Consolidado do Período,452913000.0,S
+10.629.105/0001-68,2020-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2019-01-01,2019-12-31,3.11.01,Atribuído a Sócios da Empresa Controladora,842346000.0,S
+10.629.105/0001-68,2020-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2020-01-01,2020-12-31,3.11.01,Atribuído a Sócios da Empresa Controladora,452766000.0,S
+10.629.105/0001-68,2020-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2019-01-01,2019-12-31,3.11.02,Atribuído a Sócios Não Controladores,0.0,S
+10.629.105/0001-68,2020-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2020-01-01,2020-12-31,3.11.02,Atribuído a Sócios Não Controladores,147000.0,S
+10.629.105/0001-68,2020-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2019-01-01,2019-12-31,3.99,Lucro por Ação - (Reais / Ação),0.0,N
+10.629.105/0001-68,2020-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2020-01-01,2020-12-31,3.99,Lucro por Ação - (Reais / Ação),0.0,N
+10.629.105/0001-68,2020-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2019-01-01,2019-12-31,3.99.01,Lucro Básico por Ação,0.0,N
+10.629.105/0001-68,2020-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2020-01-01,2020-12-31,3.99.01,Lucro Básico por Ação,0.0,N
+10.629.105/0001-68,2020-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2019-01-01,2019-12-31,3.99.01.01,ON,6301.0,N
+10.629.105/0001-68,2020-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2020-01-01,2020-12-31,3.99.01.01,ON,3308.0,N
+10.629.105/0001-68,2020-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2019-01-01,2019-12-31,3.99.02,Lucro Diluído por Ação,0.0,N
+10.629.105/0001-68,2020-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2020-01-01,2020-12-31,3.99.02,Lucro Diluído por Ação,0.0,N
+10.629.105/0001-68,2020-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2019-01-01,2019-12-31,3.99.02.01,ON,6301.0,N
+10.629.105/0001-68,2020-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2020-01-01,2020-12-31,3.99.02.01,ON,3308.0,N
+10.629.105/0001-68,2021-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2020-01-01,2020-12-31,3.01,Receita de Venda de Bens e/ou Serviços,1904185000.0,S
+10.629.105/0001-68,2021-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2021-01-01,2021-12-31,3.01,Receita de Venda de Bens e/ou Serviços,4396003000.0,S
+10.629.105/0001-68,2021-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2020-01-01,2020-12-31,3.02,Custo dos Bens e/ou Serviços Vendidos,-1286926000.0,S
+10.629.105/0001-68,2021-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2021-01-01,2021-12-31,3.02,Custo dos Bens e/ou Serviços Vendidos,-1883358000.0,S
+10.629.105/0001-68,2021-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2020-01-01,2020-12-31,3.03,Resultado Bruto,617259000.0,S
+10.629.105/0001-68,2021-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2021-01-01,2021-12-31,3.03,Resultado Bruto,2512645000.0,S
+10.629.105/0001-68,2021-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2020-01-01,2020-12-31,3.04,Despesas/Receitas Operacionais,325490000.0,S
+10.629.105/0001-68,2021-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2021-01-01,2021-12-31,3.04,Despesas/Receitas Operacionais,-391202000.0,S
+10.629.105/0001-68,2021-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2020-01-01,2020-12-31,3.04.01,Despesas com Vendas,0.0,S
+10.629.105/0001-68,2021-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2021-01-01,2021-12-31,3.04.01,Despesas com Vendas,0.0,S
+10.629.105/0001-68,2021-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2020-01-01,2020-12-31,3.04.02,Despesas Gerais e Administrativas,-337947000.0,S
+10.629.105/0001-68,2021-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2021-01-01,2021-12-31,3.04.02,Despesas Gerais e Administrativas,-315640000.0,S
+10.629.105/0001-68,2021-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2020-01-01,2020-12-31,3.04.02.01,Despesas com Geologia e Geofísica,-471000.0,N
+10.629.105/0001-68,2021-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2021-01-01,2021-12-31,3.04.02.01,Despesas com Geologia e Geofísica,-10262000.0,N
+10.629.105/0001-68,2021-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2020-01-01,2020-12-31,3.04.02.02,Despesas com Pessoal,-37853000.0,N
+10.629.105/0001-68,2021-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2021-01-01,2021-12-31,3.04.02.02,Despesas com Pessoal,-114845000.0,N
+10.629.105/0001-68,2021-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2020-01-01,2020-12-31,3.04.02.03,Despesas Gerais e Administrativas,-43487000.0,N
+10.629.105/0001-68,2021-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2021-01-01,2021-12-31,3.04.02.03,Despesas Gerais e Administrativas,-25152000.0,N
+10.629.105/0001-68,2021-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2020-01-01,2020-12-31,3.04.02.04,Despesas com Serviços de Terceiros,-46242000.0,N
+10.629.105/0001-68,2021-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2021-01-01,2021-12-31,3.04.02.04,Despesas com Serviços de Terceiros,-47713000.0,N
+10.629.105/0001-68,2021-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2020-01-01,2020-12-31,3.04.02.05,Impostos e Taxas,-16378000.0,N
+10.629.105/0001-68,2021-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2021-01-01,2021-12-31,3.04.02.05,Impostos e Taxas,-6695000.0,N
+10.629.105/0001-68,2021-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2020-01-01,2020-12-31,3.04.02.06,Despesa de Depreciação,-193516000.0,N
+10.629.105/0001-68,2021-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2021-01-01,2021-12-31,3.04.02.06,Despesa de Depreciação,-110973000.0,N
+10.629.105/0001-68,2021-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2020-01-01,2020-12-31,3.04.03,Perdas pela Não Recuperabilidade de Ativos,0.0,S
+10.629.105/0001-68,2021-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2021-01-01,2021-12-31,3.04.03,Perdas pela Não Recuperabilidade de Ativos,0.0,S
+10.629.105/0001-68,2021-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2020-01-01,2020-12-31,3.04.03.01,Baixa de poço seco,0.0,N
+10.629.105/0001-68,2021-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2021-01-01,2021-12-31,3.04.03.01,Baixa de poço seco,0.0,N
+10.629.105/0001-68,2021-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2020-01-01,2020-12-31,3.04.03.02,Provisão de impairment,0.0,N
+10.629.105/0001-68,2021-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2021-01-01,2021-12-31,3.04.03.02,Provisão de impairment,0.0,N
+10.629.105/0001-68,2021-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2020-01-01,2020-12-31,3.04.04,Outras Receitas Operacionais,0.0,S
+10.629.105/0001-68,2021-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2021-01-01,2021-12-31,3.04.04,Outras Receitas Operacionais,0.0,S
+10.629.105/0001-68,2021-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2020-01-01,2020-12-31,3.04.04.01,Resultado na venda de participação no Solimões,0.0,N
+10.629.105/0001-68,2021-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2021-01-01,2021-12-31,3.04.04.01,Resultado na venda de participação no Solimões,0.0,N
+10.629.105/0001-68,2021-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2020-01-01,2020-12-31,3.04.04.02,Resultado na venda de ativos permanentes,0.0,N
+10.629.105/0001-68,2021-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2021-01-01,2021-12-31,3.04.04.02,Resultado na venda de ativos permanentes,0.0,N
+10.629.105/0001-68,2021-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2020-01-01,2020-12-31,3.04.04.03,Outras,0.0,N
+10.629.105/0001-68,2021-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2021-01-01,2021-12-31,3.04.04.03,Outras,0.0,N
+10.629.105/0001-68,2021-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2020-01-01,2020-12-31,3.04.05,Outras Despesas Operacionais,663437000.0,S
+10.629.105/0001-68,2021-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2021-01-01,2021-12-31,3.04.05,Outras Despesas Operacionais,-75562000.0,S
+10.629.105/0001-68,2021-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2020-01-01,2020-12-31,3.04.06,Resultado de Equivalência Patrimonial,0.0,S
+10.629.105/0001-68,2021-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2021-01-01,2021-12-31,3.04.06,Resultado de Equivalência Patrimonial,0.0,S
+10.629.105/0001-68,2021-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2020-01-01,2020-12-31,3.05,Resultado Antes do Resultado Financeiro e dos Tributos,942749000.0,S
+10.629.105/0001-68,2021-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2021-01-01,2021-12-31,3.05,Resultado Antes do Resultado Financeiro e dos Tributos,2121443000.0,S
+10.629.105/0001-68,2021-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2020-01-01,2020-12-31,3.06,Resultado Financeiro,-458669000.0,S
+10.629.105/0001-68,2021-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2021-01-01,2021-12-31,3.06,Resultado Financeiro,-622322000.0,S
+10.629.105/0001-68,2021-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2020-01-01,2020-12-31,3.06.01,Receitas Financeiras,1469151000.0,S
+10.629.105/0001-68,2021-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2021-01-01,2021-12-31,3.06.01,Receitas Financeiras,946536000.0,S
+10.629.105/0001-68,2021-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2020-01-01,2020-12-31,3.06.02,Despesas Financeiras,-1927820000.0,S
+10.629.105/0001-68,2021-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2021-01-01,2021-12-31,3.06.02,Despesas Financeiras,-1568858000.0,S
+10.629.105/0001-68,2021-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2020-01-01,2020-12-31,3.07,Resultado Antes dos Tributos sobre o Lucro,484080000.0,S
+10.629.105/0001-68,2021-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2021-01-01,2021-12-31,3.07,Resultado Antes dos Tributos sobre o Lucro,1499121000.0,S
+10.629.105/0001-68,2021-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2020-01-01,2020-12-31,3.08,Imposto de Renda e Contribuição Social sobre o Lucro,-31167000.0,S
+10.629.105/0001-68,2021-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2021-01-01,2021-12-31,3.08,Imposto de Renda e Contribuição Social sobre o Lucro,-166075000.0,S
+10.629.105/0001-68,2021-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2020-01-01,2020-12-31,3.08.01,Corrente,-77140000.0,S
+10.629.105/0001-68,2021-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2021-01-01,2021-12-31,3.08.01,Corrente,-344812000.0,S
+10.629.105/0001-68,2021-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2020-01-01,2020-12-31,3.08.02,Diferido,45973000.0,S
+10.629.105/0001-68,2021-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2021-01-01,2021-12-31,3.08.02,Diferido,178737000.0,S
+10.629.105/0001-68,2021-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2020-01-01,2020-12-31,3.09,Resultado Líquido das Operações Continuadas,452913000.0,S
+10.629.105/0001-68,2021-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2021-01-01,2021-12-31,3.09,Resultado Líquido das Operações Continuadas,1333046000.0,S
+10.629.105/0001-68,2021-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2020-01-01,2020-12-31,3.10,Resultado Líquido de Operações Descontinuadas,0.0,S
+10.629.105/0001-68,2021-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2021-01-01,2021-12-31,3.10,Resultado Líquido de Operações Descontinuadas,0.0,S
+10.629.105/0001-68,2021-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2020-01-01,2020-12-31,3.10.01,Lucro/Prejuízo Líquido das Operações Descontinuadas,0.0,S
+10.629.105/0001-68,2021-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2021-01-01,2021-12-31,3.10.01,Lucro/Prejuízo Líquido das Operações Descontinuadas,0.0,S
+10.629.105/0001-68,2021-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2020-01-01,2020-12-31,3.10.02,Ganhos/Perdas Líquidas sobre Ativos de Operações Descontinuadas,0.0,S
+10.629.105/0001-68,2021-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2021-01-01,2021-12-31,3.10.02,Ganhos/Perdas Líquidas sobre Ativos de Operações Descontinuadas,0.0,S
+10.629.105/0001-68,2021-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2020-01-01,2020-12-31,3.11,Lucro/Prejuízo Consolidado do Período,452913000.0,S
+10.629.105/0001-68,2021-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2021-01-01,2021-12-31,3.11,Lucro/Prejuízo Consolidado do Período,1333046000.0,S
+10.629.105/0001-68,2021-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2020-01-01,2020-12-31,3.11.01,Atribuído a Sócios da Empresa Controladora,452766000.0,S
+10.629.105/0001-68,2021-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2021-01-01,2021-12-31,3.11.01,Atribuído a Sócios da Empresa Controladora,1333046000.0,S
+10.629.105/0001-68,2021-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2020-01-01,2020-12-31,3.11.02,Atribuído a Sócios Não Controladores,147000.0,S
+10.629.105/0001-68,2021-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2021-01-01,2021-12-31,3.11.02,Atribuído a Sócios Não Controladores,0.0,S
+10.629.105/0001-68,2021-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2020-01-01,2020-12-31,3.99,Lucro por Ação - (Reais / Ação),0.0,N
+10.629.105/0001-68,2021-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2021-01-01,2021-12-31,3.99,Lucro por Ação - (Reais / Ação),0.0,N
+10.629.105/0001-68,2021-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2020-01-01,2020-12-31,3.99.01,Lucro Básico por Ação,0.0,N
+10.629.105/0001-68,2021-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2021-01-01,2021-12-31,3.99.01,Lucro Básico por Ação,0.0,N
+10.629.105/0001-68,2021-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2020-01-01,2020-12-31,3.99.01.01,ON,669.0,N
+10.629.105/0001-68,2021-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2021-01-01,2021-12-31,3.99.01.01,ON,1615.0,N
+10.629.105/0001-68,2021-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2020-01-01,2020-12-31,3.99.02,Lucro Diluído por Ação,0.0,N
+10.629.105/0001-68,2021-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2021-01-01,2021-12-31,3.99.02,Lucro Diluído por Ação,0.0,N
+10.629.105/0001-68,2021-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2020-01-01,2020-12-31,3.99.02.01,ON,661.0,N
+10.629.105/0001-68,2021-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2021-01-01,2021-12-31,3.99.02.01,ON,1597.0,N
+10.629.105/0001-68,2022-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2021-01-01,2021-12-31,3.01,Receita de Venda de Bens e/ou Serviços,4396003000.0,S
+10.629.105/0001-68,2022-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2022-01-01,2022-12-31,3.01,Receita de Venda de Bens e/ou Serviços,6363475000.0,S
+10.629.105/0001-68,2022-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2021-01-01,2021-12-31,3.02,Custo dos Bens e/ou Serviços Vendidos,-1883358000.0,S
+10.629.105/0001-68,2022-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2022-01-01,2022-12-31,3.02,Custo dos Bens e/ou Serviços Vendidos,-2106303000.0,S
+10.629.105/0001-68,2022-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2021-01-01,2021-12-31,3.03,Resultado Bruto,2512645000.0,S
+10.629.105/0001-68,2022-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2022-01-01,2022-12-31,3.03,Resultado Bruto,4257172000.0,S
+10.629.105/0001-68,2022-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2021-01-01,2021-12-31,3.04,Despesas/Receitas Operacionais,-391202000.0,S
+10.629.105/0001-68,2022-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2022-01-01,2022-12-31,3.04,Despesas/Receitas Operacionais,-340959000.0,S
+10.629.105/0001-68,2022-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2021-01-01,2021-12-31,3.04.01,Despesas com Vendas,0.0,S
+10.629.105/0001-68,2022-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2022-01-01,2022-12-31,3.04.01,Despesas com Vendas,0.0,S
+10.629.105/0001-68,2022-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2021-01-01,2021-12-31,3.04.02,Despesas Gerais e Administrativas,-315640000.0,S
+10.629.105/0001-68,2022-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2022-01-01,2022-12-31,3.04.02,Despesas Gerais e Administrativas,-367529000.0,S
+10.629.105/0001-68,2022-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2021-01-01,2021-12-31,3.04.02.01,Despesas com Geologia e Geofísica,-10262000.0,N
+10.629.105/0001-68,2022-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2022-01-01,2022-12-31,3.04.02.01,Despesas com Geologia e Geofísica,-14859000.0,N
+10.629.105/0001-68,2022-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2021-01-01,2021-12-31,3.04.02.02,Despesas com Pessoal,-114845000.0,N
+10.629.105/0001-68,2022-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2022-01-01,2022-12-31,3.04.02.02,Despesas com Pessoal,-120523000.0,N
+10.629.105/0001-68,2022-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2021-01-01,2021-12-31,3.04.02.03,Despesas Gerais e Administrativas,-25152000.0,N
+10.629.105/0001-68,2022-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2022-01-01,2022-12-31,3.04.02.03,Despesas Gerais e Administrativas,-46726000.0,N
+10.629.105/0001-68,2022-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2021-01-01,2021-12-31,3.04.02.04,Despesas com Serviços de Terceiros,-47713000.0,N
+10.629.105/0001-68,2022-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2022-01-01,2022-12-31,3.04.02.04,Despesas com Serviços de Terceiros,-61164000.0,N
+10.629.105/0001-68,2022-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2021-01-01,2021-12-31,3.04.02.05,Impostos e Taxas,-6695000.0,N
+10.629.105/0001-68,2022-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2022-01-01,2022-12-31,3.04.02.05,Impostos e Taxas,-11730000.0,N
+10.629.105/0001-68,2022-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2021-01-01,2021-12-31,3.04.02.06,Despesa de Depreciação,-110973000.0,N
+10.629.105/0001-68,2022-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2022-01-01,2022-12-31,3.04.02.06,Despesa de Depreciação,-112527000.0,N
+10.629.105/0001-68,2022-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2021-01-01,2021-12-31,3.04.03,Perdas pela Não Recuperabilidade de Ativos,0.0,S
+10.629.105/0001-68,2022-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2022-01-01,2022-12-31,3.04.03,Perdas pela Não Recuperabilidade de Ativos,0.0,S
+10.629.105/0001-68,2022-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2021-01-01,2021-12-31,3.04.03.01,Baixa de poço seco,0.0,N
+10.629.105/0001-68,2022-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2022-01-01,2022-12-31,3.04.03.01,Baixa de poço seco,0.0,N
+10.629.105/0001-68,2022-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2021-01-01,2021-12-31,3.04.03.02,Provisão de impairment,0.0,N
+10.629.105/0001-68,2022-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2022-01-01,2022-12-31,3.04.03.02,Provisão de impairment,0.0,N
+10.629.105/0001-68,2022-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2021-01-01,2021-12-31,3.04.04,Outras Receitas Operacionais,0.0,S
+10.629.105/0001-68,2022-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2022-01-01,2022-12-31,3.04.04,Outras Receitas Operacionais,26570000.0,S
+10.629.105/0001-68,2022-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2021-01-01,2021-12-31,3.04.04.01,Resultado na venda de participação no Solimões,0.0,N
+10.629.105/0001-68,2022-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2022-01-01,2022-12-31,3.04.04.01,Resultado na venda de participação no Solimões,0.0,N
+10.629.105/0001-68,2022-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2021-01-01,2021-12-31,3.04.04.02,Resultado na venda de ativos permanentes,0.0,N
+10.629.105/0001-68,2022-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2022-01-01,2022-12-31,3.04.04.02,Resultado na venda de ativos permanentes,0.0,N
+10.629.105/0001-68,2022-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2021-01-01,2021-12-31,3.04.04.03,Outras,0.0,N
+10.629.105/0001-68,2022-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2022-01-01,2022-12-31,3.04.04.03,Outras,26570000.0,N
+10.629.105/0001-68,2022-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2021-01-01,2021-12-31,3.04.05,Outras Despesas Operacionais,-75562000.0,S
+10.629.105/0001-68,2022-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2022-01-01,2022-12-31,3.04.05,Outras Despesas Operacionais,0.0,S
+10.629.105/0001-68,2022-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2021-01-01,2021-12-31,3.04.06,Resultado de Equivalência Patrimonial,0.0,S
+10.629.105/0001-68,2022-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2022-01-01,2022-12-31,3.04.06,Resultado de Equivalência Patrimonial,0.0,S
+10.629.105/0001-68,2022-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2021-01-01,2021-12-31,3.05,Resultado Antes do Resultado Financeiro e dos Tributos,2121443000.0,S
+10.629.105/0001-68,2022-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2022-01-01,2022-12-31,3.05,Resultado Antes do Resultado Financeiro e dos Tributos,3916213000.0,S
+10.629.105/0001-68,2022-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2021-01-01,2021-12-31,3.06,Resultado Financeiro,-622322000.0,S
+10.629.105/0001-68,2022-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2022-01-01,2022-12-31,3.06,Resultado Financeiro,-254393000.0,S
+10.629.105/0001-68,2022-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2021-01-01,2021-12-31,3.06.01,Receitas Financeiras,946536000.0,S
+10.629.105/0001-68,2022-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2022-01-01,2022-12-31,3.06.01,Receitas Financeiras,278680000.0,S
+10.629.105/0001-68,2022-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2021-01-01,2021-12-31,3.06.02,Despesas Financeiras,-1568858000.0,S
+10.629.105/0001-68,2022-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2022-01-01,2022-12-31,3.06.02,Despesas Financeiras,-558099000.0,S
+10.629.105/0001-68,2022-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2021-01-01,2021-12-31,3.07,Resultado Antes dos Tributos sobre o Lucro,1499121000.0,S
+10.629.105/0001-68,2022-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2022-01-01,2022-12-31,3.07,Resultado Antes dos Tributos sobre o Lucro,3661820000.0,S
+10.629.105/0001-68,2022-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2021-01-01,2021-12-31,3.08,Imposto de Renda e Contribuição Social sobre o Lucro,-166075000.0,S
+10.629.105/0001-68,2022-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2022-01-01,2022-12-31,3.08,Imposto de Renda e Contribuição Social sobre o Lucro,-234748000.0,S
+10.629.105/0001-68,2022-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2021-01-01,2021-12-31,3.08.01,Corrente,-344812000.0,S
+10.629.105/0001-68,2022-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2022-01-01,2022-12-31,3.08.01,Corrente,-545460000.0,S
+10.629.105/0001-68,2022-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2021-01-01,2021-12-31,3.08.02,Diferido,178737000.0,S
+10.629.105/0001-68,2022-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2022-01-01,2022-12-31,3.08.02,Diferido,310712000.0,S
+10.629.105/0001-68,2022-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2021-01-01,2021-12-31,3.09,Resultado Líquido das Operações Continuadas,1333046000.0,S
+10.629.105/0001-68,2022-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2022-01-01,2022-12-31,3.09,Resultado Líquido das Operações Continuadas,3427072000.0,S
+10.629.105/0001-68,2022-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2021-01-01,2021-12-31,3.10,Resultado Líquido de Operações Descontinuadas,0.0,S
+10.629.105/0001-68,2022-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2022-01-01,2022-12-31,3.10,Resultado Líquido de Operações Descontinuadas,0.0,S
+10.629.105/0001-68,2022-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2021-01-01,2021-12-31,3.10.01,Lucro/Prejuízo Líquido das Operações Descontinuadas,0.0,S
+10.629.105/0001-68,2022-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2022-01-01,2022-12-31,3.10.01,Lucro/Prejuízo Líquido das Operações Descontinuadas,0.0,S
+10.629.105/0001-68,2022-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2021-01-01,2021-12-31,3.10.02,Ganhos/Perdas Líquidas sobre Ativos de Operações Descontinuadas,0.0,S
+10.629.105/0001-68,2022-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2022-01-01,2022-12-31,3.10.02,Ganhos/Perdas Líquidas sobre Ativos de Operações Descontinuadas,0.0,S
+10.629.105/0001-68,2022-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2021-01-01,2021-12-31,3.11,Lucro/Prejuízo Consolidado do Período,1333046000.0,S
+10.629.105/0001-68,2022-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2022-01-01,2022-12-31,3.11,Lucro/Prejuízo Consolidado do Período,3427072000.0,S
+10.629.105/0001-68,2022-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2021-01-01,2021-12-31,3.11.01,Atribuído a Sócios da Empresa Controladora,1333046000.0,S
+10.629.105/0001-68,2022-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2022-01-01,2022-12-31,3.11.01,Atribuído a Sócios da Empresa Controladora,3427072000.0,S
+10.629.105/0001-68,2022-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2021-01-01,2021-12-31,3.11.02,Atribuído a Sócios Não Controladores,0.0,S
+10.629.105/0001-68,2022-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2022-01-01,2022-12-31,3.11.02,Atribuído a Sócios Não Controladores,0.0,S
+10.629.105/0001-68,2022-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2021-01-01,2021-12-31,3.99,Lucro por Ação - (Reais / Ação),0.0,N
+10.629.105/0001-68,2022-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2022-01-01,2022-12-31,3.99,Lucro por Ação - (Reais / Ação),0.0,N
+10.629.105/0001-68,2022-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2021-01-01,2021-12-31,3.99.01,Lucro Básico por Ação,0.0,N
+10.629.105/0001-68,2022-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2022-01-01,2022-12-31,3.99.01,Lucro Básico por Ação,0.0,N
+10.629.105/0001-68,2022-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2021-01-01,2021-12-31,3.99.01.01,ON,1615.0,N
+10.629.105/0001-68,2022-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2022-01-01,2022-12-31,3.99.01.01,ON,4061.3842332,N
+10.629.105/0001-68,2022-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2021-01-01,2021-12-31,3.99.02,Lucro Diluído por Ação,0.0,N
+10.629.105/0001-68,2022-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2022-01-01,2022-12-31,3.99.02,Lucro Diluído por Ação,0.0,N
+10.629.105/0001-68,2022-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,PENÚLTIMO,2021-01-01,2021-12-31,3.99.02.01,ON,1597.0,N
+10.629.105/0001-68,2022-12-31,1,PRIO S.A.,22187,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2022-01-01,2022-12-31,3.99.02.01,ON,4023.3705273,N
